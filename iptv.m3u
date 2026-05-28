@@ -701,8 +701,10 @@ https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18e
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 2
 http://212.102.60.231/BLOOMBERG/index.m3u8
 
+https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/931381eb-409d-4115-ad59-1d30b5840ca1:GRQ/variant/dd0a1227701dfa2d888d4bd736db2793/bandwidth/3000000.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)
-https://www.france24.com/en/live|webview zoom=400 scroll=400,0
+https://www.france24.com/en/live|youtubefulldig
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/3840px-Rai_News_24_logo_%282022%29.svg.png" group-title="NEWS",RAINEWS 24 HD
 https://www.rainews.it/notiziari/rainews24|webdeskfulldig
@@ -826,11 +828,17 @@ http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/527/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtCDezgqZggYVOJIzLhQyRw5YTDvoSwjxXQ&s" group-title="ADULT CHANNELS - SERVER",PLAYBOY TV HD Россия|Ροή 2
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/527/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtCDezgqZggYVOJIzLhQyRw5YTDvoSwjxXQ&s" group-title="ADULT CHANNELS - SERVER",PLAYBOY TV HD Россия|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/527/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRroonQMFhnwjYAwYfsihmExeYEa1KyTmlAig&s" group-title="ADULT CHANNELS - SERVER",DORCEL TV HD|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/245/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRroonQMFhnwjYAwYfsihmExeYEa1KyTmlAig&s" group-title="ADULT CHANNELS - SERVER",DORCEL TV HD|Ροή 2
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/245/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRroonQMFhnwjYAwYfsihmExeYEa1KyTmlAig&s" group-title="ADULT CHANNELS - SERVER",DORCEL TV HD|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/245/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://satinfo24.pl/wp-content/uploads/2020/04/152302558372_logo_privatetvhd_ok1-800x445.png" group-title="ADULT CHANNELS - SERVER",PRIVATE TV HD|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/243/manifest.m3u8
@@ -838,11 +846,17 @@ http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/243/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://satinfo24.pl/wp-content/uploads/2020/04/152302558372_logo_privatetvhd_ok1-800x445.png" group-title="ADULT CHANNELS - SERVER",PRIVATE TV HD|Ροή 2
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/243/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://satinfo24.pl/wp-content/uploads/2020/04/152302558372_logo_privatetvhd_ok1-800x445.png" group-title="ADULT CHANNELS - SERVER",PRIVATE TV HD|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/243/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjgBByYRQOGtES68nTuzSEYxu6Ow0GmlMhQ&s" group-title="ADULT CHANNELS - SERVER",VIVIDRED TV HD|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/2162/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjgBByYRQOGtES68nTuzSEYxu6Ow0GmlMhQ&s" group-title="ADULT CHANNELS - SERVER",VIVIDRED TV HD|Ροή 2
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/2162/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjgBByYRQOGtES68nTuzSEYxu6Ow0GmlMhQ&s" group-title="ADULT CHANNELS - SERVER",VIVIDRED TV HD|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/2162/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7vPYt7YDt_XQf2JwP5aKSmeGPcvOS6tG7w&s" group-title="ADULT CHANNELS - SERVER",HUSTLER TV HD|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/244/manifest.m3u8
@@ -850,11 +864,17 @@ http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/244/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7vPYt7YDt_XQf2JwP5aKSmeGPcvOS6tG7w&s" group-title="ADULT CHANNELS - SERVER",HUSTLER TV HD|Ροή 2
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/244/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7vPYt7YDt_XQf2JwP5aKSmeGPcvOS6tG7w&s" group-title="ADULT CHANNELS - SERVER",HUSTLER TV HD|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/244/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLq49lIRJq1QzCzV7j_GTvW1KInY6qjChM7Q&s" group-title="ADULT CHANNELS - SERVER",BRAZZERS TV EUROPE|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/910/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLq49lIRJq1QzCzV7j_GTvW1KInY6qjChM7Q&s" group-title="ADULT CHANNELS - SERVER",BRAZZERS TV EUROPE|Ροή 2
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/910/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLq49lIRJq1QzCzV7j_GTvW1KInY6qjChM7Q&s" group-title="ADULT CHANNELS - SERVER",BRAZZERS TV EUROPE|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/910/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/russian-night-tv-logo.png" group-title="ADULT CHANNELS - SERVER",Русская Ночь|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/147/manifest.m3u8
@@ -862,17 +882,32 @@ http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/147/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/russian-night-tv-logo.png" group-title="ADULT CHANNELS - SERVER",Русская Ночь|Ροή 2
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/147/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/russian-night-tv-logo.png" group-title="ADULT CHANNELS - SERVER",Русская Ночь|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/147/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Eroxxx_%282013%29.svg/revision/latest/scale-to-width-down/200?cb=20171210224521" group-title="ADULT CHANNELS - SERVER",Eroxxx HD Россия|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/5015/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Eroxxx_%282013%29.svg/revision/latest/scale-to-width-down/200?cb=20171210224521" group-title="ADULT CHANNELS - SERVER",Eroxxx HD Россия|Ροή 2
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/5015/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Eroxxx_%282013%29.svg/revision/latest/scale-to-width-down/200?cb=20171210224521" group-title="ADULT CHANNELS - SERVER",Eroxxx HD Россия|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/5015/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/9346/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 2
 http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/9346/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/9346/manifest.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER",ПЕPBЫЙ FHD
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6215/manifest.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER",LEGAL PORNO
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/20090/manifest.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -968,44 +1003,73 @@ https://adult-tv-channels.com/pink-erotic-8-tv-online/|webdeskfulldig
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Pink_Erotic.png/revision/latest?cb=20210318150833" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC
-http://169.150.255.53/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Penthouse Quickies HD РОССИЯ
+http://ru.iptv.monster/play/6881/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 2
-http://169.150.255.53/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Центральное ТВ RU
+http://ru.iptv.monster/play/13021/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPEDnaIvfq7C_ZpfrC-OrGZ79oNSjgkyheA&s" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 3
-http://169.150.255.53/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",DITV XXX
+http://ru.iptv.monster/play/2065/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Pink_Erotic_4.png/revision/latest/smart/width/386/height/259?cb=20210318151404" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 4
-http://169.150.255.53/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Eromania 4K РОССИЯ
+http://ru.iptv.monster/play/1703/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6vaj4h7BiG4GNAPGIKrjs1ZTrCM7bpbDl5g&s" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 5
-http://169.150.255.53/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",OLERO Babes РОССИЯ
+http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Pink_Erotic_6_RS_logo.png?1736424853" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 6
-http://169.150.255.53/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Penthouse Gold HD РОССИЯ
+http://ru.iptv.monster/play/6880/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRahy_Qtch7_tjijXjmy-shXkEbxxnertTaFw&s" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 7
-http://169.150.255.53/PinkErotic7/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",OLERO Babes РОССИЯ
+http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDr8Fdw2VLRj2ZxdzOCoiAF3F8zdWBeE9KMA&s" group-title="ADULT CHANNELS - SERVER 2",BABES TV (NOT LIVE)
-http://169.150.255.53/BabesTV/index.m3u8 
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Penthouse Gold HD РОССИЯ
+http://ru.iptv.monster/play/6880/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzU32ep8hNsYzJUtfQ_AUN1k9AeD3we9e6w&s" group-title="ADULT CHANNELS - SERVER 2",HUSTLER TV
-http://169.150.255.53/Hustler/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",ОХ-АХ HD
+http://ru.iptv.monster/play/1767/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5nC2uiO2f4ODjeYe9CoVGHc1fYWyw49yQ3w&s" group-title="ADULT CHANNELS - SERVER 2",REALITYKINGS
-http://169.150.255.53/RealityKings/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Redlight HD РОССИЯ
+http://ru.iptv.monster/play/594/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbk827h6LxxW4Plego7yxtsYp3B9XGjPdQQ&s" group-title="ADULT CHANNELS - SERVER 2",BANG U
-http://169.150.255.53/BangU/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Русская Ночь
+http://ru.iptv.monster/play/132/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtCDezgqZggYVOJIzLhQyRw5YTDvoSwjxXQ&s" group-title="ADULT CHANNELS - SERVER 2",PLAYBOY TV HD
-http://169.150.255.53/PlayboyHD/index.m3u8
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Penthouse Reality TV РОССИЯ
+http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
 
-#EXTINF:-1 tvg-logo="https://satinfo24.pl/wp-content/uploads/2020/04/152302558372_logo_privatetvhd_ok1-800x445.png" group-title="ADULT CHANNELS - SERVER 2",PRIVATE TV HD
-http://169.150.255.53/Private/mpegts
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",BABES TV РОССИЯ
+http://141.95.55.143/CH1189/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",Redlight РОССИЯ
+http://141.95.55.143/CH745/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",PENTHOUSE РОССИЯ
+http://141.95.55.143/CH3479/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",EROX РОССИЯ
+http://141.95.55.143/CH1193/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",PRIVATE РОССИЯ
+http://141.95.55.143/CH1191/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",Dorcel TV Россия
+http://212.70.131.37:8000/play/a080
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",VIVID RED РОССИЯ
+http://141.95.55.143/CH1187/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",HUSTLER HD РОССИЯ
+http://141.95.55.143/CH743/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",EXXXOTICA РОССИЯ
+http://141.95.55.143/CH535/index.m3u8
+
+#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",PENTHOUSE PASSION РОССИЯ
+http://141.95.55.143/CH3517/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1041,25 +1105,34 @@ http://5.57.74.130:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="XXX CHANNELS",XXX 5 (Desire)
 http://5.57.74.130:8000/play/a0c4/index.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 6
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104821.m3u8
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 6 (EroLuxe shemale)
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95823/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 7
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104822.m3u8
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 7 (EroLuxe Russian Teens)
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95728/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 8
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104824.m3u8
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 8 (EroLuxe pregnant)
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95836/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 9
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104825.m3u8
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 9 (EroLuxe milf)
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95793/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 10
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104827.m3u8
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 10 (EroLuxe massage)
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95620/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 11
-http://192.142.57.168:8080/live/MLS003/qZj4zbPNDn/104816.m3u8
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 11 (EroLuxe lesbians)
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95720/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 12
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 12 (EroLuxe henati)
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/94683/hls/pl.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 13 (EroLuxe gloryhole)
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95420/hls/pl.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 14 (EroLuxe orgy)
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95842/hls/pl.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 15
 http://143.244.63.87/pinkerotic2/playlist.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
