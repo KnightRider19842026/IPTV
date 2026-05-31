@@ -613,6 +613,9 @@ https://opap.live.inspiredvss.co.uk/live/dogs/stream_0/dogs.m3u8
 #EXTINF:-1 tvg-logo="https://betarades2-5c24.kxcdn.com/wp-content/uploads/2018/11/Pamestoixima-595x340-new.jpg" group-title="SPORTS CHANNELS",PAME STOIXIMA RACING
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6uyWUaRYjQNfYSqdE2wRUjWzR2NL5ufQTw&s" group-title="SPORTS CHANNELS",SUPER TENNIS
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="SPORTS CHANNELS",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
@@ -660,6 +663,9 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/DW/default/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDl1qzZzYQGfli7yZe2phcGb3JE8TmlbxGA&s" group-title="NEWS",DW ENGLISH|Ροή 3
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/DW/default/DW-audio_210600_eng=210400-video=2089200.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDl1qzZzYQGfli7yZe2phcGb3JE8TmlbxGA&s" group-title="NEWS",DW ESPANOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 1
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 
@@ -696,22 +702,29 @@ http://89.105.221.127/CNBC/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC|Ροή 3
 http://41.223.30.230/CNBC/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/960px-MSNBC_2015-2021_logo.svg.png" group-title="NEWS",MSNBC
 http://89.105.221.127/MSNBC/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohlr9IFmTeESe1oFoVPskr8niMSBxDu7g0w&s" group-title="NEWS",CGTN ENGLISH
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbS51pegjwWQ28fzrT8SM-QIbm7l5QLQ43w&s" group-title="NEWS",RT TODAY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbS51pegjwWQ28fzrT8SM-QIbm7l5QLQ43w&s" group-title="NEWS",RT TODAY|Ροή 1
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbS51pegjwWQ28fzrT8SM-QIbm7l5QLQ43w&s" group-title="NEWS",RT TODAY|Ροή 2
+https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbS51pegjwWQ28fzrT8SM-QIbm7l5QLQ43w&s" group-title="NEWS",RT (FR)
+https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 1
 https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 2
 http://212.102.60.231/BLOOMBERG/index.m3u8
-
-https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/931381eb-409d-4115-ad59-1d30b5840ca1:GRQ/variant/dd0a1227701dfa2d888d4bd736db2793/bandwidth/3000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)
 https://www.youtube.com/watch?v=HvZt-nh9sGg
@@ -728,17 +741,26 @@ https://www.rainews.it/notiziari/rainews24|webdeskfulldig
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="NEWS",TRTWORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="NEWS",Yahoo Finance
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf08pZMf956akuJksGlWWeEbTlWkbvniQQXg&s" group-title="NEWS",YAHOO FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 
-#EXTINF:-1 group-title="NEWS",CBS NEWS
-https://www.cbsnews.com/live/|webdeskfulldig
+#EXTINF:-1 group-title="NEWS",ABC NEWS AU
+https://iview.abc.net.au/video/NS1413V001S00|webdeskfulldig
 
-#EXTINF:-1 group-title="NEWS",ABC NEWS
-https://abcnews.com/Live|webdeskfulldig
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa32cG9VNT9IpFL8nXz_xwQqsLTJTD9oL_iw&s" group-title="NEWS",ABC NEWS
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
 
-#EXTINF:-1 group-title="NEWS",BFM TV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV
 https://www.bfmtv.com/en-direct/|webdeskfulldig
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN|Ροή 1
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/c2e0bd3bd02d18fc032dd5d462d58f63094856bfdad60eca71fa35f83fca3439/v1.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN|Ροή 2
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/adf91c708efb3b30eacf210931d7409748ff75677c7f7a0b3ba611626a456c3b/s1.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN|Ροή 3
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/b95e9aa9a33513b4d3416b7a201ec82c0d5e59c711f7fb0191d49f299d05b62e/a1.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
