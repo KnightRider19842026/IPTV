@@ -657,19 +657,29 @@ https://dwamdstream102.akamaized.net/hls/live/2015525-b/dwstream102/stream05/str
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDl1qzZzYQGfli7yZe2phcGb3JE8TmlbxGA&s" group-title="NEWS",DW ENGLISH|Ροή 2
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/DW/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDl1qzZzYQGfli7yZe2phcGb3JE8TmlbxGA&s" group-title="NEWS",DW ENGLISH|Ροή 3
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/DW/default/DW-audio_210600_eng=210400-video=2089200.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 1
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.jpg" group-title="NEWS",SKY NEWS ENGLISH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 2
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.jpg" group-title="NEWS",SKY NEWS ENGLISH|Ροή 1
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.jpg" group-title="NEWS",SKY NEWS ENGLISH|Ροή 2
 https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/08_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.jpg" group-title="NEWS",SKY NEWS ARABIC
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC NEWS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC WORLD NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC NEWS
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/BBC/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -704,7 +714,13 @@ http://212.102.60.231/BLOOMBERG/index.m3u8
 https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/931381eb-409d-4115-ad59-1d30b5840ca1:GRQ/variant/dd0a1227701dfa2d888d4bd736db2793/bandwidth/3000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)
-https://www.france24.com/en/live|youtubefulldig
+https://www.youtube.com/watch?v=HvZt-nh9sGg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (FR)
+https://www.youtube.com/watch?v=a47ckXKZjxI
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (AR)
+https://www.youtube.com/watch?v=93g513Uth98
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/3840px-Rai_News_24_logo_%282022%29.svg.png" group-title="NEWS",RAINEWS 24 HD
 https://www.rainews.it/notiziari/rainews24|webdeskfulldig
@@ -714,6 +730,15 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="NEWS",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
+
+#EXTINF:-1 group-title="NEWS",CBS NEWS
+https://www.cbsnews.com/live/|webdeskfulldig
+
+#EXTINF:-1 group-title="NEWS",ABC NEWS
+https://abcnews.com/Live|webdeskfulldig
+
+#EXTINF:-1 group-title="NEWS",BFM TV
+https://www.bfmtv.com/en-direct/|webdeskfulldig
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -779,7 +804,13 @@ tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlOIwQQlCaHEvIo
 https://gsn-cinevault-classics-1-us.roku.wurl.tv/1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH6Gh08kSbkAAhadjeS0Sitp0GrKemBX6hGA&s" group-title="MOVIES",MBC 2
-https://www.elahmad.com/tv/live/shahid_shaka.php?id=mbc2|webview zoom=200 scroll=0,400 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+
+#EXTINF:-1 group-title="MOVIES",MBC MAX
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+
+#EXTINF:-1 group-title="MOVIES",MBC ACTION
+https://www.mbch.live/mbc_action|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="MOVIES",AMC
 http://23.239.31.26:8989/amc/index.m3u8
