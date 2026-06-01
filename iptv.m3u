@@ -294,6 +294,9 @@ https://ert-live.ascdn.broadpeak.io/bpk-tv/RIK/default/index.mpd
 #EXTINF:-1 tvg-id="RIKSAT" tvg-name="RIKSAT" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/44/RIK_Sat_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20210425164353" group-title="GREEK CHANNELS WORLD",RIKSAT|Ροή 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.mpd
 
+#EXTINF:-1 tvg-id="RIKSAT" tvg-name="RIKSAT" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/44/RIK_Sat_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20210425164353" group-title="GREEK CHANNELS WORLD",RIKSAT|Ροή 4
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ftey8v3Adz42OD8sgv3K6-oQX54oRGQFXg&s" group-title="GREEK CHANNELS WORLD",ERT WORLD HD|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTWorld/default/index.mpd
 
@@ -507,6 +510,9 @@ https://cdn.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/h3uIBQSMgHa2yEuQEjz5-yKDQsRNAaB9nmDlyxuBEHUSI3gZ95kFLsXXMHyKIUvImJFPadrguw=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC CHANNELS",DANCE TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/960px-Mezzo_Logo.svg.png" group-title="MUSIC CHANNELS",MEZZO TV
+https://live-3.otcnet.ru/Mezzo/tracks-v1a1/mono.ts.m3u8
+
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjpbt1GYiy546NxY73lYpv43DspukGzSAdA&s" group-title="KIDS",ERT KIDS HD|Ροή 1
@@ -533,26 +539,20 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="KIDS",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS",Disney Channel
-http://89.105.221.127/Disney/index.m3u8?token=test
+#EXTINF:-1 group-title="KIDS",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS",Disney XD|Ροή 1
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS",Disney XD|Ροή 2
-http://84.17.50.102/disneyxd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL97mgZczyhYSwxX6rwRSDsBhPLK7gOlCEA&s" group-title="KIDS",Disney Junior|Ροή 1
-http://84.17.50.102/disneyjunior/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL97mgZczyhYSwxX6rwRSDsBhPLK7gOlCEA&s" group-title="KIDS",Disney Junior|Ροή 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL97mgZczyhYSwxX6rwRSDsBhPLK7gOlCEA&s" group-title="KIDS",Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="KIDS",Nicktoons
-http://212.102.60.231/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/jim-jam-logo-png_seeklogo-197241.png" group-title="KIDS",JIM JAM (RU)
+http://185.78.112.47:8077/JimJam/tracks-v1a1/mono.ts.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -560,49 +560,37 @@ http://212.102.60.231/NICKTOONS/index.m3u8
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRxnL_TdJ0tWjEoZ6HGTi-j1Z1hNcIjIfuQ&s" group-title="SPORTS CHANNELS",ERT SPORTS 1|Ροή 2
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/ERTSports1-audio_210600_gre=210400-video=3110800.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRxnL_TdJ0tWjEoZ6HGTi-j1Z1hNcIjIfuQ&s" group-title="SPORTS CHANNELS",ERT SPORTS 1|Ροή 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/a/a5/Ertsports2.png" group-title="SPORTS CHANNELS",ERT SPORTS 2|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/a/a5/Ertsports2.png" group-title="SPORTS CHANNELS",ERT SPORTS 2|Ροή 2
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports2/default/ERTSports2-audio_210600_gre=210400-video=3110800.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/a/a5/Ertsports2.png" group-title="SPORTS CHANNELS",ERT SPORTS 2|Ροή 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/d/db/Ertsports3.png/960px-Ertsports3.png" group-title="SPORTS CHANNELS",ERT SPORTS 3|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/d/db/Ertsports3.png/960px-Ertsports3.png" group-title="SPORTS CHANNELS",ERT SPORTS 3|Ροή 2
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports3/default/ERTSports3-audio_210600_gre=210400-video=3110800.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/d/db/Ertsports3.png/960px-Ertsports3.png" group-title="SPORTS CHANNELS",ERT SPORTS 3|Ροή 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/ERT_Sports_4_Logo.png/revision/latest?cb=20220423212820" group-title="SPORTS CHANNELS",ERT SPORTS 4|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/ERT_Sports_4_Logo.png/revision/latest?cb=20220423212820" group-title="SPORTS CHANNELS",ERT SPORTS 4|Ροή 2
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports4/default/ERTSports4-audio_210600_gre=210400-video=3110800.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/ERT_Sports_4_Logo.png/revision/latest?cb=20220423212820" group-title="SPORTS CHANNELS",ERT SPORTS 4|Ροή 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/960px-ERTSPORTS_logo_2020.svg.png" group-title="SPORTS CHANNELS",ERT SPORTS 5|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports5/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/960px-ERTSPORTS_logo_2020.svg.png" group-title="SPORTS CHANNELS",ERT SPORTS 5|Ροή 2
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports5/default/ERTSports5-audio_210600_gre=210400-video=3110800.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ERTSPORTS_logo_2020.svg/960px-ERTSPORTS_logo_2020.svg.png" group-title="SPORTS CHANNELS",ERT SPORTS 5|Ροή 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports5/default/index.mpd
 
-#EXTINF:-1 group-title="SPORTS CHANNELS",ERT SPORTS 6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/ERT_Sports_6_Logo.png/revision/latest/scale-to-width-down/350?cb=20220423212821" group-title="SPORTS CHANNELS",ERT SPORTS 6|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports6/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/ERT_Sports_6_Logo.png/revision/latest/scale-to-width-down/350?cb=20220423212821" group-title="SPORTS CHANNELS",ERT SPORTS 6|Ροή 2
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports6/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://s.tvopen.gr/images/OPEN_BEYOND_Avra.png" group-title="SPORTS CHANNELS",OPEN SPORT
 https://opentvlive2.siliconweb.com/tvopengames/live2_abr/tvopengames/live2_720p/chunks.m3u8
@@ -616,28 +604,28 @@ https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6uyWUaRYjQNfYSqdE2wRUjWzR2NL5ufQTw&s" group-title="SPORTS CHANNELS",SUPER TENNIS
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000v/70/25/mens-tennis-logo-vector-29217025.jpg" group-title="SPORTS CHANNELS",TENNIS+
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg01935-amg01935c1-amgplt0020/d0abf5f9-5da5-11f1-a23d-aa87df9b7eab/189/640x360_1157520/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="SPORTS CHANNELS",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/sportsman-canada-logo-01.png" group-title="SPORTS CHANNELS",Sportsman Channel
-http://212.102.60.231/SPORTSMAN_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXDPmitkpE5ENmw1_raJcbMDRsMS8kGiIVA&s" group-title="SPORTS CHANNELS",SportsNet New York
-http://212.102.60.231/SNY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttMEZFEzT6WqgT_E3kohdWUft0m_OE3iZOg&s" group-title="SPORTS CHANNELS",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvT27Mk67E1Q5BusCOftiGeFN6xCfrpJY5ZA&s" group-title="SPORTS CHANNELS",NBA TV
-http://89.105.221.127/NBATV/index.m3u8?token=test
-
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS ENGLISH|Ροή 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (EN)|Ροή 1
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS ENGLISH|Ροή 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (EN)|Ροή 2
 https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (RU)
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (FR)
+https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1vene9pYLjyd_ZzbzokiWSSRNKyHmjMAtw&s" group-title="NEWS",AFRICA NEWS ENGLISH
 https://www.youtube.com/watch?v=NQjabLGdP5g|youtubedig
@@ -690,16 +678,13 @@ https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/BBC/default/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN INTERNATIONAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN INTERNATIONAL|Ροή 1
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC|Ροή 1
-https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN INTERNATIONAL|Ροή 2
+https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC|Ροή 2
-http://89.105.221.127/CNBC/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC|Ροή 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC
 http://41.223.30.230/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC TV18
@@ -727,13 +712,16 @@ https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18e
 http://212.102.60.231/BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)
-https://www.youtube.com/watch?v=HvZt-nh9sGg
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (FR)
-https://www.youtube.com/watch?v=a47ckXKZjxI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (FR)|Ροή 1
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (FR)|Ροή 2
+https://tvradiozap.eu/tv/m3u8/france24.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (AR)
-https://www.youtube.com/watch?v=93g513Uth98
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/3840px-Rai_News_24_logo_%282022%29.svg.png" group-title="NEWS",RAINEWS 24 HD
 https://www.rainews.it/notiziari/rainews24|webdeskfulldig
@@ -753,14 +741,8 @@ https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV
 https://www.bfmtv.com/en-direct/|webdeskfulldig
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN|Ροή 1
-https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/c2e0bd3bd02d18fc032dd5d462d58f63094856bfdad60eca71fa35f83fca3439/v1.m3u8
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN|Ροή 2
-https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/adf91c708efb3b30eacf210931d7409748ff75677c7f7a0b3ba611626a456c3b/s1.m3u8
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN|Ροή 3
-https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/b95e9aa9a33513b4d3416b7a201ec82c0d5e59c711f7fb0191d49f299d05b62e/a1.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN
+https://www3.nhk.or.jp/nhkworld/en/live_tv/|webdeskfulldig
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -801,9 +783,6 @@ https://lb.streaming.sk/fashiontv/stream/chunklist_w159392217.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/World_Fashion_logo.jpg/960px-World_Fashion_logo.jpg" group-title="LIFESTYLE",WORLD FASHION TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="LIFESTYLE",TLC
-http://89.105.221.127/tlc/mpegts?token=test
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJRUQwP6cItjgqjCzTcHdvzWOMW56L3QxWQ&s" group-title="LIFESTYLE",Food Network 
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
