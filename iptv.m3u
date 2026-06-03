@@ -513,6 +513,9 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/960px-Mezzo_Logo.svg.png" group-title="MUSIC CHANNELS",MEZZO TV
 https://live-3.otcnet.ru/Mezzo/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kscQdQpYdDLD-1Td0x1XbjoQUutS9Cl7P1He_6Io3TsOy3=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC CHANNELS",EUROPA PLUS TV
+https://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjpbt1GYiy546NxY73lYpv43DspukGzSAdA&s" group-title="KIDS",ERT KIDS HD|Ροή 1
@@ -536,11 +539,14 @@ http://41.223.30.230/BABYTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="KIDS",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="KIDS",BOOMERANG
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="KIDS",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="KIDS",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="KIDS",CARTOON NETWORK
+http://176.118.197.101/Cartoon_Network/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -548,8 +554,14 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL97mgZczyhYSwxX6rwRSDsBhPLK7gOlCEA&s" group-title="KIDS",Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS",Nickelodeon
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS",Nickelodeon|Ροή 1
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS",Nickelodeon|Ροή 2
+http://185.78.112.47:8077/nickelodeon/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="KIDS",NICK JR
+https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/jim-jam-logo-png_seeklogo-197241.png" group-title="KIDS",JIM JAM (RU)
 http://185.78.112.47:8077/JimJam/tracks-v1a1/mono.ts.m3u8
@@ -613,6 +625,18 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttMEZFEzT6WqgT_E3kohdWUft0m_OE3iZOg&s" group-title="SPORTS CHANNELS",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.info/l/f/1/1065.1447433721.png" group-title="SPORTS CHANNELS",EUROSPORT 1
+https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" group-title="SPORTS CHANNELS",EUROSPORT 2
+http://185.78.112.47:8077/Eurosport2HD/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318" group-title="SPORTS CHANNELS",SETANTA SPORTS 1
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_5a98f177a12e9e40b3ae5588.png" group-title="SPORTS CHANNELS",SETANTA SPORTS 2
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (EN)|Ροή 1
@@ -672,8 +696,11 @@ https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/ind
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC WORLD NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC NEWS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC NEWS|Ροή 1
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/BBC/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC NEWS|Ροή 2
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -693,8 +720,11 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/960px-MSNBC_2015-2021_logo.svg.png" group-title="NEWS",MSNBC
 http://89.105.221.127/MSNBC/index.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohlr9IFmTeESe1oFoVPskr8niMSBxDu7g0w&s" group-title="NEWS",CGTN ENGLISH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohlr9IFmTeESe1oFoVPskr8niMSBxDu7g0w&s" group-title="NEWS",CGTN ENGLISH|Ροή 1
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohlr9IFmTeESe1oFoVPskr8niMSBxDu7g0w&s" group-title="NEWS",CGTN ENGLISH|Ροή 2
+https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbS51pegjwWQ28fzrT8SM-QIbm7l5QLQ43w&s" group-title="NEWS",RT TODAY|Ροή 1
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist.m3u8
@@ -711,8 +741,20 @@ https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18e
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 2
 http://212.102.60.231/BLOOMBERG/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 3
+https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)|Ροή 1
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)|Ροή 2
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)|Ροή 3
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)|Ροή 4
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (FR)|Ροή 1
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
@@ -722,6 +764,9 @@ https://tvradiozap.eu/tv/m3u8/france24.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (AR)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (ES)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/3840px-Rai_News_24_logo_%282022%29.svg.png" group-title="NEWS",RAINEWS 24 HD
 https://www.rainews.it/notiziari/rainews24|webdeskfulldig
@@ -738,11 +783,17 @@ https://iview.abc.net.au/video/NS1413V001S00|webdeskfulldig
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa32cG9VNT9IpFL8nXz_xwQqsLTJTD9oL_iw&s" group-title="NEWS",ABC NEWS
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV|Ροή 1
 https://www.bfmtv.com/en-direct/|webdeskfulldig
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV|Ροή 2
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN
-https://www3.nhk.or.jp/nhkworld/en/live_tv/|webdeskfulldig
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/3840px-Logo_TV5_Monde_-_2021.svg.png" group-title="NEWS",TV5 MONDE
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/TV5/default/index.mpd
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -778,8 +829,8 @@ https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="LIFESTYLE",FASHION TV HD|Ροή 2
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLbllGvFgGJJt1NqCDuGB6lICMJx0eQhubA&s" group-title="LIFESTYLE",FASHION TV CZECH & SLOVAK HD
-https://lb.streaming.sk/fashiontv/stream/chunklist_w159392217.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLbllGvFgGJJt1NqCDuGB6lICMJx0eQhubA&s" group-title="LIFESTYLE",FASHION TV HD|Ροή 3
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/World_Fashion_logo.jpg/960px-World_Fashion_logo.jpg" group-title="LIFESTYLE",WORLD FASHION TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
@@ -789,6 +840,9 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGADu6cWgejeG_oF8k0ssiEFNucFLS4ZjsnQ&s" group-title="LIFESTYLE",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSea59HSasY_66Zq8ioIFWZJUTDvBmWHhoXEw&s" group-title="LIFESTYLE",ARIRANG
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
