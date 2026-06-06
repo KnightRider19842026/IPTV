@@ -351,10 +351,10 @@ https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews_Sign/default/ERTNews_Sign-aud
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews_Sign/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="GREEK NEWS CHANNELS",EURONEWS GREEK|Ροή 1
-https://www.youtube.com/embed/v=uWIhV9gQClg
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="GREEK NEWS CHANNELS",EURONEWS GREEK|Ροή 2
-plugin://plugin.video.youtube/play/?video_id=uWIhV9gQClg
+https://gr.euronews.com/live|webview
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
@@ -664,13 +664,13 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (RU)|Ροή 2
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25018/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (FR)|Ροή 1
 https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (FR)|Ροή 2
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25081/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25081/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (ES)
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
@@ -685,7 +685,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25032/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-de/25047/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (HU)
-https://cdn-euronews.akamaized.net/live/eds/euronews-de/25075/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1vene9pYLjyd_ZzbzokiWSSRNKyHmjMAtw&s" group-title="NEWS",AFRICA NEWS (EN)
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
@@ -775,7 +775,7 @@ https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
 https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 2
-http://212.102.60.231/BLOOMBERG/index.m3u8
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 3
 https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
@@ -813,14 +813,14 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf08pZMf956akuJksGlWWeEbTlWkbvniQQXg&s" group-title="NEWS",YAHOO FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 
-#EXTINF:-1 group-title="NEWS",ABC NEWS AU
-https://iview.abc.net.au/video/NS1413V001S00|webdeskfulldig
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/1280px-ABC_News_%28Australia%29_logo.svg.png" group-title="NEWS",ABC NEWS AU
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa32cG9VNT9IpFL8nXz_xwQqsLTJTD9oL_iw&s" group-title="NEWS",ABC NEWS
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV|Ροή 1
-https://www.bfmtv.com/en-direct/|webdeskfulldig
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m4/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&bpkio_sessionid=10f0e174a114-5bbd108b-f4e6-494b-b175-648b4e452fee&category=all&channel_name=BFMTV_all-desktop-Live-undefined&content_id=6346069778112&env=desktop&gdpr=1&gdpr_consent=CQlYd4AQlYd4AAHABBENChFsAP_gAAAAAAAALzsB7C5cQClhcDJlYKskaQRdxxBCYEAwBAAAAAAFABoAIIQElGEAAAhAACACAAAAAEBBIQAhCAAABAAAIAAAICCEAEAAABAAIKAAAAABQkBACAAACAAAGAAQgAAEAgQAgAIACAqIQFAAAgAACAAAAAABAICBAAAAAAAgAAAQAAAAAGgAAIAAAAIAEAAMABAIEABAAAEAAAAAAAAAAAAAQAAAAAAAAACAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAgBxABABwAMWgAwABBkUJABgACDIpKADAAEGRSEAGAAIMijoAMAAQZFKQAYAAgyKAAA.ILzsB7C5cQCllcDJlYKskaQRdxxBCYEAwBAAAAAAFABoAIIQElGEAAAhAACACAAAAAEBBIQAhCAAABAAAIAAAICCEAEAAABAAIKAAAAABQkBACAAACAAAGAAQgAAEAgQAgAIACAqIQFAAAgAACAAAAAABAICBAAAAAAAgAAAQAAAAAGgAAIAAAAIAEAAMABAIEABAAAEAAAAAAAAAAAAAQAAAAAAAAACAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAg.f_wAAAAAAAAA&h=449&mm_sp&ssid=7d47e522-43ce-4b2d-aeb3-69dc0cbd21eb&url=https%3A%2F%2Fwww.bfmtv.com%2Fen-di...
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV|Ροή 2
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
@@ -829,7 +829,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CBS_News_logo.svg" group-title="NEWS",CBS NEWS
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/8556c922-ab82-47ee-9261-9c472e18dd0b:BRU/variant/9b9c3d2ac5aa8733095eb4ff47cef5d8/bandwidth/2249000.m3u8
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/b728cffc-f867-479c-9c7d-d2d25e7546d5:BRU/variant/93c2acc6479504ccd49e3f4d21db1bec/bandwidth/441000.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
