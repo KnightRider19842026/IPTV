@@ -177,7 +177,7 @@ http://185.110.242.208:8085/;stream.mp3
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.m3u8
 
 #EXTINF:-1 tvg-id="ERT(2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD|Ροή 2
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/ERT1-audio_142800_gre=140800-video=5154400.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd
 
 #EXTINF:-1 tvg-id="ERT(2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD|Ροή 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.mpd
@@ -186,7 +186,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.mpd
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 2
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/default/ERT2-audio_142800_gre=140800-video=3110800.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd
