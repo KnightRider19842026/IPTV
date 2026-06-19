@@ -174,19 +174,19 @@ http://185.110.242.208:8085/;stream.mp3
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ERT(1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD|Ροή 1
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.m3u8
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8
 
 #EXTINF:-1 tvg-id="ERT(2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD|Ροή 2
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd
+https://ert-live.siliconweb.com/bpk-tv/ERT1/drm/index.mpd
 
 #EXTINF:-1 tvg-id="ERT(2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD|Ροή 3
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.mpd
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 1
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/default/index.m3u8
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 2
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd
@@ -231,18 +231,12 @@ https://spark3.smart-tv-data.com/starHD/starHD/manifest.mpd
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" group-title="GREEK CHANNELS",ANT1 TV|Ροή 2
-https://www.antenna.gr/live|webdeskalldig
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" group-title="GREEK CHANNELS",ANT1 TV|Ροή 3
 https://spark3.smart-tv-data.com/ant1HD/ant1HD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o6Md2eaUuWxsd7mh-38GSskLSmtFIqystw&s" group-title="GREEK CHANNELS",MAK TV|Ροή 1
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o6Md2eaUuWxsd7mh-38GSskLSmtFIqystw&s" group-title="GREEK CHANNELS",MAK TV|Ροή 2
-https://www.antenna.gr/livemak|webdeskalldig
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o6Md2eaUuWxsd7mh-38GSskLSmtFIqystw&s" group-title="GREEK CHANNELS",MAK TV|Ροή 3
 https://spark3.smart-tv-data.com/makHD/makHD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/432-4327115_24-open-tv-rh-protothema-gr-tv-clip-art-tv-channel-open.png" group-title="GREEK CHANNELS",OPEN TV|Ροή 1
@@ -271,17 +265,11 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.mpd
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2x14uvKNGfy8IEViyxaof94vxuGFD6W8Hsg&s" group-title="GREEK CHANNELS WEB",ANTENNA DRAMA|Ροή 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2x14uvKNGfy8IEViyxaof94vxuGFD6W8Hsg&s" group-title="GREEK CHANNELS WEB",ANTENNA DRAMA
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2x14uvKNGfy8IEViyxaof94vxuGFD6W8Hsg&s" group-title="GREEK CHANNELS WEB",ANTENNA DRAMA|Ροή 2
-https://www.antenna.gr/livedrama|webdeskfulldig
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtLNfcxvhWzKA1Ho-C8ZNCfhbSETZyvBDXw&s" group-title="GREEK CHANNELS WEB",ANTENNA COMEDY|Ροή 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtLNfcxvhWzKA1Ho-C8ZNCfhbSETZyvBDXw&s" group-title="GREEK CHANNELS WEB",ANTENNA COMEDY
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtLNfcxvhWzKA1Ho-C8ZNCfhbSETZyvBDXw&s" group-title="GREEK CHANNELS WEB",ANTENNA COMEDY|Ροή 2
-https://www.antenna.gr/livecomedy|webdeskfulldig
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -493,7 +481,7 @@ https://verginanews.gr:8443/hls_live/stream1.m3u8
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHm7RiaBeO_HwipqiZ8LokpFNhk45eAe6jw&s" group-title="MUSIC CHANNELS",MAD TV
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/ocs4XeBHUbSGwy-X22mLnFXK7FaVuSnNPWzTfsMbLl4RZNdtBKB5HhobUyiXnFl_Ay3HgwdA_V5yLuHKtB-KDQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
+https://kick.com/madtvgreece|webview
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLfZf266CSR5qQAkNLUMO94JZUGGJShkSrg&s" group-title="MUSIC CHANNELS",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/chunklist_w1127824718.m3u8
@@ -518,6 +506,25 @@ https://live-3.otcnet.ru/Mezzo/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kscQdQpYdDLD-1Td0x1XbjoQUutS9Cl7P1He_6Io3TsOy3=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC CHANNELS",EUROPA PLUS TV
 https://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0_1hSmUxCd621Fi28hzbN3sde8kTwMelIpwUZzuoPA&s" group-title="MUSIC CHANNELS",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/702/993/png-transparent-trace-urban-television-channel-free-to-air-urban-contemporary-others-television-text-rectangle-thumbnail.png" group-title="MUSIC CHANNELS",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZ2YnuBrTDBachvtmdHPyJbAIp7ufMXqOs3BJ0J-Uww&s" group-title="MUSIC CHANNELS",VANTAGE MUSIC
+https://cdn-fi.lulzy.eu/vmusic_stream/main_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjCHzHmm3YxYXSju3e_9FFaRIZwdPO1xOpqlBcdMK3w&s" group-title="MUSIC CHANNELS",VANTAGE DANCE
+https://cdn-fi.lulzy.eu/vdance_stream/main_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9Ft-DUkeitESbcmW2oB3j-sKQZytpxNdJnYKgVmVBQ&s=10" group-title="MUSIC CHANNELS",VANTAGE ROCK
+https://cdn-fi.lulzy.eu/vrock_stream/main_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2P9iNqCgM5Rtmt7zD3sorFI6UhVSoa4OqTVXHFltfPg&s=10" group-title="MUSIC CHANNELS",VANTAGE CLASSIC
+https://cdn-fi.lulzy.eu/vclassic_stream/main_stream.m3u8
+
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
