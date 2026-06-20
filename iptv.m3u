@@ -481,7 +481,7 @@ https://verginanews.gr:8443/hls_live/stream1.m3u8
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHm7RiaBeO_HwipqiZ8LokpFNhk45eAe6jw&s" group-title="MUSIC CHANNELS",MAD TV
-https://kick.com/madtvgreece|webview
+https://www.mad.gr/mad-tv-player/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLfZf266CSR5qQAkNLUMO94JZUGGJShkSrg&s" group-title="MUSIC CHANNELS",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/chunklist_w1127824718.m3u8
@@ -730,7 +730,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 2
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.jpg" group-title="NEWS",SKY NEWS ENGLISH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-jJa-GZBupJ5pmLF41rEwuHA2mgC-fLhhg&s" group-title="NEWS",SKY NEWS ENGLISH
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.jpg" group-title="NEWS",SKY NEWS ARABIC
@@ -779,10 +779,10 @@ https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist.m3u
 https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 1
-https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
+https://www.bloomberg.com/live/us|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 2
-https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/0b12542d-f371-4f99-8772-41bc972f0d29:BRU/variant/fd3e9ee6e0c218e857d9c21e6e2189a0/bandwidth/3000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 3
 https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
@@ -827,16 +827,16 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV|Ροή 1
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m4/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&bpkio_sessionid=10f0e174a114-5bbd108b-f4e6-494b-b175-648b4e452fee&category=all&channel_name=BFMTV_all-desktop-Live-undefined&content_id=6346069778112&env=desktop&gdpr=1&gdpr_consent=CQlYd4AQlYd4AAHABBENChFsAP_gAAAAAAAALzsB7C5cQClhcDJlYKskaQRdxxBCYEAwBAAAAAAFABoAIIQElGEAAAhAACACAAAAAEBBIQAhCAAABAAAIAAAICCEAEAAABAAIKAAAAABQkBACAAACAAAGAAQgAAEAgQAgAIACAqIQFAAAgAACAAAAAABAICBAAAAAAAgAAAQAAAAAGgAAIAAAAIAEAAMABAIEABAAAEAAAAAAAAAAAAAQAAAAAAAAACAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAgBxABABwAMWgAwABBkUJABgACDIpKADAAEGRSEAGAAIMijoAMAAQZFKQAYAAgyKAAA.ILzsB7C5cQCllcDJlYKskaQRdxxBCYEAwBAAAAAAFABoAIIQElGEAAAhAACACAAAAAEBBIQAhCAAABAAAIAAAICCEAEAAABAAIKAAAAABQkBACAAACAAAGAAQgAAEAgQAgAIACAqIQFAAAgAACAAAAAABAICBAAAAAAAgAAAQAAAAAGgAAIAAAAIAEAAMABAIEABAAAEAAAAAAAAAAAAAQAAAAAAAAACAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAg.f_wAAAAAAAAA&h=449&mm_sp&ssid=7d47e522-43ce-4b2d-aeb3-69dc0cbd21eb&url=https%3A%2F%2Fwww.bfmtv.com%2Fen-di...
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m4/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&bpkio_sessionid=10e0c144b34-60e63b34-6cbd-42b6-b5fd-b0c2bfe8a5db&category=all&channel_name=BFMTV_all-desktop-Live-undefined&content_id=6346069778112&env=desktop&gdpr=1&gdpr_consent=CQmGnAAQmGnAAAHABBENCjFsAP_gAAAAAAAALzsB7C5cQClhcDJlYKskaQRdxxBCYEAwBAAAAAAFABoAIIQElGEAAAgAACACAAAAAEBBIQAhCAAABAAAIAAAICCEAEAAABAAIKAAAAABQkBACAAACAAAGAAQgAAEAgQAgAIACAqIQFAAAgAACAAAAAABAICBAAAAAAAgAAAQAAAAAGgAAIAAAAIAEAAMABAIEABAAAEAAAAAAAAAAAAAQAAAAAAAAACAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAgBxABABwAMWgAwABBk0JABgACDJpKADAAEGTSEAGAAIMmjoAMAAQZNKQAYAAgyaAAA.ILzsB7C5cQCllcDJlYKskaQRdxxBCYEAwBAAAAAAFABoAIIQElGEAAAgAACACAAAAAEBBIQAhCAAABAAAIAAAICCEAEAAABAAIKAAAAABQkBACAAACAAAGAAQgAAEAgQAgAIACAqIQFAAAgAACAAAAAABAICBAAAAAAAgAAAQAAAAAGgAAIAAAAIAEAAMABAIEABAAAEAAAAAAAAAAAAAQAAAAAAAAACAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAg.f_wAAAAAAAAA&h=449&mm_sp&ssid=c6f33981-ceca-4e06-adf4-57b9058bcb1e&url=https%3A%2F%2Fwww.bfmtv.com%2Fen-dir...
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV|Ροή 2
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
+https://www.bfmtv.com/en-direct/|webdeskfulldig
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CBS_News_logo.svg" group-title="NEWS",CBS NEWS
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/b728cffc-f867-479c-9c7d-d2d25e7546d5:BRU/variant/93c2acc6479504ccd49e3f4d21db1bec/bandwidth/441000.m3u8
+https://www.cbsnews.com/live/|webdeskfulldig
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
