@@ -332,11 +332,8 @@ http://cdn.smart-tv-data.com/mega/MegaCosmos/mpeg.2ts
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZe8GueNvNDaljVhlTT2A63Fxs5npbEjebQ&s" group-title="GREEK NEWS CHANNELS",MEGA NEWS HD|Ροή 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZe8GueNvNDaljVhlTT2A63Fxs5npbEjebQ&s" group-title="GREEK NEWS CHANNELS",MEGA NEWS HD
 https://streamcdnh3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/chunklist_b3200000.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZe8GueNvNDaljVhlTT2A63Fxs5npbEjebQ&s" group-title="GREEK NEWS CHANNELS",MEGA NEWS HD|Ροή 2
-https://streamcdnb1-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowD5i0Lsh7xXqGv3nbVHiNSVjwWmYTWnnnw&s" group-title="GREEK NEWS CHANNELS",ERT NEWS HD|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews/default/index.mpd
@@ -615,6 +612,9 @@ https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/df/eb/9b/dfeb9b03f713f27bac621834d676531f.jpg" group-title="KIDS",MR BEAN ANIMATE
 https://tinyurl.com/3e644vsb
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png" group-title="KIDS",ENGLISH CLUB TV
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
