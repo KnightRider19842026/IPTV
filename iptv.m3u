@@ -186,7 +186,9 @@ https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd
 https://tinyurl.com/4yabfmzb
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 1
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd
+#EXTVLCOPT:http-referrer=https://player.msvdn.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34&referer=https://player.msvdn.net/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 2
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
