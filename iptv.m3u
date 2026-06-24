@@ -771,7 +771,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-jJa-GZBupJ5pmLF41rEwuHA2mgC-fLhhg&s" group-title="NEWS",SKY NEWS ENGLISH
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.jpg" group-title="NEWS",SKY NEWS ARABIC
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
@@ -795,13 +795,14 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC
-http://41.223.30.230/CNBC/index.m3u8
+https://rtmp2.livenewsof.com/auth/0w7nmLBt6L59UE5LPlSIQrEyAkyz6JK2q2Bm5iKC-_xlvDDFLB10Fw7DDByPUHTcmsOiGumJd34N1Je5MDOCKLbf7l4F_OVCxJyG6kHBTq6VuP8A4YGbczktliIXJ1UBsktT691lQ_jbUgU2oPZEE_LSnrrD9oIfW61FJEmDogg_RjfznrfNWWRhwP2gTMcEvlw2sMh3WgvDK350zrZLEW3LvSJi5LE32zKsEcSNUE0yn5meWSt3YaEncymt2cUy8u3LngJut3vKwy8eU4mq8mtNAyVmzIXgA5ihUp6TvR7IxTh4GxHYrNRFRi2Is9OXzRHtBQFv-kfvQzHRIywoAMkZ3gr1duZ7N7yqSOldp0c1NUqeRmbfB8nN1A_PuXoblibYpbMcroLINObmkYHj7A9GUXHXTZFOLDqCWfXhB4Il8VLaSls80gy5z2txNVkoxvvq4bH_lOjKCY1jPb6XSohPA55g3YGtqZuUUR3ZWG_eyUjv2QmcEj9MjzWoqTFq2dR7Rt7w6mH9T5Xxo9H_BWg5sMbJz1voPSInTcfpLbJ7N1UMjLNtoVAYvfugCq2WQ0IkmJrodGvDki11OPlSHzacpuPTshoQT-MC6ZPQtlM
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC TV18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/960px-MSNBC_2015-2021_logo.svg.png" group-title="NEWS",MSNBC
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
+https://livenewsof.com/msnbc-news-live-stream/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohlr9IFmTeESe1oFoVPskr8niMSBxDu7g0w&s" group-title="NEWS",CGTN ENGLISH|Ροή 1
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
@@ -877,6 +878,9 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CBS_News_logo.svg" group-title="NEWS",CBS NEWS
 https://www.cbsnews.com/live/|webdeskfulldig
+
+#EXTINF:-1 group-title="NEWS",FOX NEWS
+https://rtmp3.livenewsof.com/auth/nw_DesfY_QEU4tsPQoJ2m1QJZsDUIAqRJ-CWusfyJQhvhAKVgPdJC6GCWyIYr9t3uiFArnhWQRfNpKiTzw2VSJKAYlSHshsBq0ZwaqeajBx-m2QolrAaEGXt99sXqdHMBEzwNLyjy-xL-lml4BPgITgPCxatn9Lkey66k4HGIcaqAMFIURYRmolIWBYAc7t-mJEQ7wuKiYON43nXAnN8ZSBqPHOaA7rSYH4Yoc91_Eha6Y-d-an4ieRp9X5Ph9hjsjA_jJHwswk13Jv9Yp_KwpFDv_yBrH365EJGaa68eN7L3atxiWpxv43gJrWIz20TS0DL7w-PHIXZYu2Ja-WE-S8fK_6SZ_4iAb7JcFcf5qcCngp8RotjquS6NtdpmYIYPtC0OY_BTTRgjsKHfipmi3v_YSxkwjJ7-mLCYwZdG72-frO3jlOE_eUX_SCN3_koMcWNFJdCbx04ORLCN0V8EAUPZlSd2KyQzIZzMKrwJthWIU-A9CQiiOv5NyIkRz89m7JhuOgt08j-1ARvADbbR_lt8ck--rhmlFe7Ai_iRDytw4oHV9RFkywn7u0-YfPwVYqtc4ODw8mtYN0PddR9N-ATiwEVlZ1LdrlsB14y74A
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
