@@ -689,6 +689,45 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/1280px-ABC_News_%28Australia%29_logo.svg.png" group-title="NEWS",ABC NEWS AU
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa32cG9VNT9IpFL8nXz_xwQqsLTJTD9oL_iw&s" group-title="NEWS",ABC NEWS
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1vene9pYLjyd_ZzbzokiWSSRNKyHmjMAtw&s" group-title="NEWS",AFRICA NEWS (EN)
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1vene9pYLjyd_ZzbzokiWSSRNKyHmjMAtw&s" group-title="NEWS",AFRICA NEWS (FR)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 1
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 2
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC WORLD NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC NEWS|Ροή 1
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/BBC/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC NEWS|Ροή 2
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV
+https://www.bfmtv.com/en-direct/|webdeskfulldig
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 1
+https://www.bloomberg.com/live/us|webdeskfulldig
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 2
+https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/0b12542d-f371-4f99-8772-41bc972f0d29:BRU/variant/fd3e9ee6e0c218e857d9c21e6e2189a0/bandwidth/3000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 3
+https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (EN)|Ροή 1
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 
@@ -734,12 +773,6 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-de/25047/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (HU)
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1vene9pYLjyd_ZzbzokiWSSRNKyHmjMAtw&s" group-title="NEWS",AFRICA NEWS (EN)
-https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1vene9pYLjyd_ZzbzokiWSSRNKyHmjMAtw&s" group-title="NEWS",AFRICA NEWS (FR)
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="NEWS",I24 NEWS ENGLISH
 https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
 
@@ -764,26 +797,11 @@ https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/DW/default/DW-audio_21
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDl1qzZzYQGfli7yZe2phcGb3JE8TmlbxGA&s" group-title="NEWS",DW ESPANOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 1
-https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 2
-https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-jJa-GZBupJ5pmLF41rEwuHA2mgC-fLhhg&s" group-title="NEWS",SKY NEWS ENGLISH
 https://news.sky.com/watch-live|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.jpg" group-title="NEWS",SKY NEWS ARABIC
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC WORLD NEWS
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC NEWS|Ροή 1
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/BBC/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC NEWS|Ροή 2
-https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -821,15 +839,6 @@ https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbS51pegjwWQ28fzrT8SM-QIbm7l5QLQ43w&s" group-title="NEWS",RT (FR)
 https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 1
-https://www.bloomberg.com/live/us|webdeskfulldig
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 2
-https://dai.google.com/linear/hls/pa/event/k-VHR5unRdusBDqoXAuB0Q/stream/0b12542d-f371-4f99-8772-41bc972f0d29:BRU/variant/fd3e9ee6e0c218e857d9c21e6e2189a0/bandwidth/3000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 3
-https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (EN)|Ροή 1
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
@@ -862,18 +871,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf08pZMf956akuJksGlWWeEbTlWkbvniQQXg&s" group-title="NEWS",YAHOO FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/1280px-ABC_News_%28Australia%29_logo.svg.png" group-title="NEWS",ABC NEWS AU
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa32cG9VNT9IpFL8nXz_xwQqsLTJTD9oL_iw&s" group-title="NEWS",ABC NEWS
-https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_1.m3u8
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV|Ροή 1
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m4/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955&bpkio_sessionid=10e0c144b34-60e63b34-6cbd-42b6-b5fd-b0c2bfe8a5db&category=all&channel_name=BFMTV_all-desktop-Live-undefined&content_id=6346069778112&env=desktop&gdpr=1&gdpr_consent=CQmGnAAQmGnAAAHABBENCjFsAP_gAAAAAAAALzsB7C5cQClhcDJlYKskaQRdxxBCYEAwBAAAAAAFABoAIIQElGEAAAgAACACAAAAAEBBIQAhCAAABAAAIAAAICCEAEAAABAAIKAAAAABQkBACAAACAAAGAAQgAAEAgQAgAIACAqIQFAAAgAACAAAAAABAICBAAAAAAAgAAAQAAAAAGgAAIAAAAIAEAAMABAIEABAAAEAAAAAAAAAAAAAQAAAAAAAAACAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAgBxABABwAMWgAwABBk0JABgACDJpKADAAEGTSEAGAAIMmjoAMAAQZNKQAYAAgyaAAA.ILzsB7C5cQCllcDJlYKskaQRdxxBCYEAwBAAAAAAFABoAIIQElGEAAAgAACACAAAAAEBBIQAhCAAABAAAIAAAICCEAEAAABAAIKAAAAABQkBACAAACAAAGAAQgAAEAgQAgAIACAqIQFAAAgAACAAAAAABAICBAAAAAAAgAAAQAAAAAGgAAIAAAAIAEAAMABAIEABAAAEAAAAAAAAAAAAAQAAAAAAAAACAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAg.f_wAAAAAAAAA&h=449&mm_sp&ssid=c6f33981-ceca-4e06-adf4-57b9058bcb1e&url=https%3A%2F%2Fwww.bfmtv.com%2Fen-dir...
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr6VzpICVpqZ7W7YlQuFcFN5eQyH0KjQZhQ&s" group-title="NEWS",BFM TV|Ροή 2
-https://www.bfmtv.com/en-direct/|webdeskfulldig
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
