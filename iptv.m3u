@@ -959,10 +959,10 @@ tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlOIwQQlCaHEvIo
 https://gsn-cinevault-classics-1-us.roku.wurl.tv/1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH6Gh08kSbkAAhadjeS0Sitp0GrKemBX6hGA&s" group-title="MOVIES",MBC 2
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-2/51db9d7fa48a27d051f1eecb68069151/index.mpd
+https://babaktv.com/mbc-2/|webdeskfulldig
 
 #EXTINF:-1 group-title="MOVIES",MBC MAX
-https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+https://babaktv.com/mbc-max/|webdeskfulldig
 
 #EXTINF:-1 group-title="MOVIES",MBC ACTION
 https://www.mbch.live/mbc_action|webdeskfulldig
@@ -1002,9 +1002,6 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="MOVIES",We Tv
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcaZcOuQ2RUzccqDiDcis9EMV5jtNRY0pCVQ&s" group-title="MOVIES",TNT Series
-http://181.78.4.250:8098/play/a06l/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1189,9 +1186,6 @@ https://adult-tv-channels.com/pink-erotic-8-tv-online/|webdeskfulldig
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Penthouse Quickies HD РОССИЯ
-http://ru.iptv.monster/play/6881/manifest.m3u8?token=623939143BE8A4B
-
 #EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Центральное ТВ RU
 http://ru.iptv.monster/play/13021/manifest.m3u8?token=623939143BE8A4B
 
@@ -1227,98 +1221,42 @@ http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",BABES TV РОССИЯ
-http://141.95.55.143/CH1189/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",Redlight РОССИЯ
-http://141.95.55.143/CH745/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",PENTHOUSE РОССИЯ
-http://141.95.55.143/CH3479/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",EROX РОССИЯ
-http://141.95.55.143/CH1193/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",PRIVATE РОССИЯ
-http://141.95.55.143/CH1191/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",Dorcel TV Россия
-http://212.70.131.37:8000/play/a080
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",VIVID RED РОССИЯ
-http://141.95.55.143/CH1187/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",HUSTLER HD РОССИЯ
-http://141.95.55.143/CH743/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",EXXXOTICA РОССИЯ
-http://141.95.55.143/CH535/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 3",PENTHOUSE PASSION РОССИЯ
-http://141.95.55.143/CH3517/index.m3u8
-
-#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRroonQMFhnwjYAwYfsihmExeYEa1KyTmlAig&s" group-title="ADULT CHANNELS - SERVER (MIX)",DORCEL TV HD
-http://78.130.250.2:8023/play/a069/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiTcaCn_ZvNiI8lCtuXBzRiVlQVQDXXbeOCg&s" group-title="ADULT CHANNELS - SERVER (MIX)",BLUE HUSTLER TV HD
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7vPYt7YDt_XQf2JwP5aKSmeGPcvOS6tG7w&s" group-title="ADULT CHANNELS - SERVER (MIX)",HUSTLER TV HD
-http://162.19.227.109/714/manifest.m3u8?token=SB31175290
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPekxXGhkPjO4tR8QJp-gJjAnykbDvwy8pog&s" group-title="ADULT CHANNELS - SERVER (MIX)",RED LIPS TV
-http://pl.online24.pm/play/103/623939143BE8A4B/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtCDezgqZggYVOJIzLhQyRw5YTDvoSwjxXQ&s" group-title="ADULT CHANNELS - SERVER (MIX)",PLAYBOY TV
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 #EXTINF:-1 group-title="XXX CHANNELS",XXX 1
 http://88b9da48.kazmazpaz.ru:80/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20090/manifest.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 2
-https://adult-tv-channels.com/evil-angel-tv-online/|webdeskfulldig
-
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 3
-https://adult-tv-channels.com/cento-x-cento-tv-online/|webdeskfulldig
-
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 4 (Blue Hustler)
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 2 (Blue Hustler)
 http://5.57.74.130:8000/play/a0c3/index.m3u8 
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 5 (Desire)
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 3 (Desire)
 http://5.57.74.130:8000/play/a0c4/index.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 6 (EroLuxe shemale)
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="XXX EROLUXE",Shemale
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95823/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 7 (EroLuxe Russian Teens)
+#EXTINF:-1 group-title="XXX EROLUXE",Russian Teens
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95728/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 8 (EroLuxe pregnant)
+#EXTINF:-1 group-title="XXX EROLUXE",Pregnant
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95836/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 9 (EroLuxe milf)
+#EXTINF:-1 group-title="XXX EROLUXE",Milf
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95793/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 10 (EroLuxe massage)
+#EXTINF:-1 group-title="XXX EROLUXE",Massage
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95620/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 11 (EroLuxe lesbians)
+#EXTINF:-1 group-title="XXX EROLUXE",Lesbians
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95720/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 12 (EroLuxe henati)
+#EXTINF:-1 group-title="XXX EROLUXE",Henati
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/94683/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 13 (EroLuxe gloryhole)
+#EXTINF:-1 group-title="XXX EROLUXE",Gloryhole
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95420/hls/pl.m3u8
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 14 (EroLuxe orgy)
+#EXTINF:-1 group-title="XXX EROLUXE",Orgy
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95842/hls/pl.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 15
-http://143.244.63.87/pinkerotic2/playlist.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
