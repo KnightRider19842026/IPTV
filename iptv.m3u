@@ -687,6 +687,45 @@ https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_5a98f177a12e9e40b3ae5588.png" group-title="SPORTS CHANNELS",SETANTA SPORTS 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="SPORTS CHANNELS",TNT SPORTS 4
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19054/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",SKYSPORT AUSTRIA
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19038/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",BEIN SPORTS 1 MAX FHD
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19062/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CANAL+ SPORT 2 HD
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6099/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1(PL/EN)
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/20058/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",SKY SPORT MOTO GP (IT)
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19133/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",SETANTA SPORTS 2
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/6542/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/234/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",SKY SPORT CALCIO IT
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19113/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",FOX SPORTS 501 CRICKET HD AU
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19146/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",TNT SPORTS 3
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/6564/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",SETANTA SPORTS 1
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6543/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",SETANTA SPORTS +
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/5068/index.m3u8
+
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/1280px-ABC_News_%28Australia%29_logo.svg.png" group-title="NEWS",ABC NEWS AU
@@ -726,7 +765,7 @@ https://www.bloomberg.com/live/us|webdeskfulldig
 https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CBS_News_logo.svg" group-title="NEWS",CBS NEWS|Ροή 1
-https://www.cbsnews.com/live/|webdeskfulldig
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/3f76f2d0-0310-4168-8217-5b6aef849b48:GRQ/variant/746103095c4cba0bf336a095edd0798c/bandwidth/733000.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CBS_News_logo.svg" group-title="NEWS",CBS NEWS|Ροή 2
 http://www.freeintertv.com/view/id-2984/1-1-2-1?chname=cbs&findch=1|webdeskfulldig
@@ -860,8 +899,11 @@ https://livenewsof.com/msnbc-news-live-stream/|webdeskfulldig
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HLf7nEj7la9mll23Y3tYfOloPI-5BVSVeA&s" group-title="NEWS",NHK WORLD JAPAN
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/3840px-Rai_News_24_logo_%282022%29.svg.png" group-title="NEWS",RAINEWS 24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/3840px-Rai_News_24_logo_%282022%29.svg.png" group-title="NEWS",RAINEWS 24 HD|Ροή 1
 https://www.rainews.it/notiziari/rainews24|webdeskfulldig
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/3840px-Rai_News_24_logo_%282022%29.svg.png" group-title="NEWS",RAINEWS 24 HD|Ροή 2
+https://d27wu3gni4gipu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/486f4644-e914-4b2d-8588-4eea3df5680d/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbS51pegjwWQ28fzrT8SM-QIbm7l5QLQ43w&s" group-title="NEWS",RT TODAY|Ροή 1
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist.m3u8
@@ -882,19 +924,18 @@ https://d3f4oii5n0oeqi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
 
 #EXTINF:-1 group-title="NEWS",SPACE LIVE
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/5e575a32-c460-4907-b3af-38edc7a1a171/1.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/33bb8835-bde2-42d3-8aeb-9442f8d3e605/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png" group-title="NEWS",TRTWORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/3840px-Logo_TV5_Monde_-_2021.svg.png" group-title="NEWS",TV5 MONDE
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/TV5/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf08pZMf956akuJksGlWWeEbTlWkbvniQQXg&s" group-title="NEWS",YAHOO FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/3840px-Logo_TV5_Monde_-_2021.svg.png" group-title="MIX",TV5 MONDE
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/TV5/default/index.mpd
-
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="DOCUMENTARY",Animal Planet|Ροή 1
@@ -951,9 +992,6 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/p
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTw_b4v4e5Na9i93g0kQsQz_fCW8j-f16kIA&s" group-title="MOVIES",NET TV TORONTO
 https://eu1.streams.gr:8081/netvtoronto/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBK9mr-6hN0R8DePSNkoEyVLckR8aofwylMw&s" group-title="MOVIES",BBC America
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlOIwQQlCaHEvIohdfmNGLdx-lcABYObt7A&s" group-title="MOVIES",CLASSIC CINEMA
 https://gsn-cinevault-classics-1-us.roku.wurl.tv/1200.m3u8
