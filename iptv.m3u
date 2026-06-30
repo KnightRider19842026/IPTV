@@ -613,8 +613,14 @@ https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="SPORTS CHANNELS",A SPOR TR HD
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19069/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS CHANNELS",BEIN SPORTS 1 MAX FHD
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19062/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",BEIN SPORTS HABER
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19064/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",CANAL+ SPORT 2 HD
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6099/index.m3u8
@@ -658,8 +664,23 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports6/default/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttMEZFEzT6WqgT_E3kohdWUft0m_OE3iZOg&s" group-title="SPORTS CHANNELS",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS CHANNELS",ESPN 2 HD (NL)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19202/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",ESPN 3 HD (NL)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19203/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",ESPN HD (BR)
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19060/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",ESPN 6 HD (BR)
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19057/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1(PL/EN)
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/20058/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (RU/EN)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/9247/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/l/f/1/1065.1447433721.png" group-title="SPORTS CHANNELS",EUROSPORT 1
 https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
@@ -667,7 +688,10 @@ https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/234/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS CHANNELS",FOX SPORTS 501 CRICKET HD AU
+#EXTINF:-1 group-title="SPORTS CHANNELS",FOX SPORTS 2 (AR)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19138/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",FOX SPORTS 501 CRICKET HD (AU)
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19146/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.tvopen.gr/images/OPEN_BEYOND_Avra.png" group-title="SPORTS CHANNELS",OPEN SPORT
@@ -703,6 +727,9 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19113/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",SKYSPORT MOTO GP (IT)
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19133/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS CHANNELS",SKY SPORT GOLF HD (IT)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19132/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6uyWUaRYjQNfYSqdE2wRUjWzR2NL5ufQTw&s" group-title="SPORTS CHANNELS",SUPER TENNIS
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
@@ -711,6 +738,12 @@ http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/6564/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",TNT SPORTS 4
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19054/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",TRACE SPORTS STAR
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/14030/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",TRT SPOR
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19072/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="SPORTS CHANNELS",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
