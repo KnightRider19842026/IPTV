@@ -613,6 +613,12 @@ https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="SPORTS CHANNELS",BEIN SPORTS 1 MAX FHD
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19062/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CANAL+ SPORT 2 HD
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6099/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRxnL_TdJ0tWjEoZ6HGTi-j1Z1hNcIjIfuQ&s" group-title="SPORTS CHANNELS",ERT SPORTS 1|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.mpd
 
@@ -649,6 +655,21 @@ https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports6/default/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/ERT_Sports_6_Logo.png/revision/latest/scale-to-width-down/350?cb=20220423212821" group-title="SPORTS CHANNELS",ERT SPORTS 6|Ροή 2
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports6/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttMEZFEzT6WqgT_E3kohdWUft0m_OE3iZOg&s" group-title="SPORTS CHANNELS",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1(PL/EN)
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/20058/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.info/l/f/1/1065.1447433721.png" group-title="SPORTS CHANNELS",EUROSPORT 1
+https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/234/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",FOX SPORTS 501 CRICKET HD AU
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19146/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://s.tvopen.gr/images/OPEN_BEYOND_Avra.png" group-title="SPORTS CHANNELS",OPEN SPORT
 https://opentvlive2.siliconweb.com/tvopengames/live2_abr/tvopengames/live2_720p/chunks.m3u8
 
@@ -658,20 +679,11 @@ https://opap.live.inspiredvss.co.uk/live/dogs/stream_0/dogs.m3u8
 #EXTINF:-1 tvg-logo="https://betarades2-5c24.kxcdn.com/wp-content/uploads/2018/11/Pamestoixima-595x340-new.jpg" group-title="SPORTS CHANNELS",PAME STOIXIMA RACING
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6uyWUaRYjQNfYSqdE2wRUjWzR2NL5ufQTw&s" group-title="SPORTS CHANNELS",SUPER TENNIS
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="SPORTS CHANNELS",YES Network
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttMEZFEzT6WqgT_E3kohdWUft0m_OE3iZOg&s" group-title="SPORTS CHANNELS",ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.info/l/f/1/1065.1447433721.png" group-title="SPORTS CHANNELS",EUROSPORT 1
-https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Setanta_Sports_1_2019.png/revision/latest?cb=20220714215318" group-title="SPORTS CHANNELS",SETANTA SPORTS 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",SETANTA SPORTS 1
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6543/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_5a98f177a12e9e40b3ae5588.png" group-title="SPORTS CHANNELS",SETANTA SPORTS 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
@@ -679,41 +691,29 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",SETANTA SPORTS 2
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/6542/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS CHANNELS",TNT SPORTS 4
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19054/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS",SETANTA SPORTS +
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/5068/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",SKYSPORT AUSTRIA 1
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19038/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS CHANNELS",BEIN SPORTS 1 MAX FHD
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19062/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",CANAL+ SPORT 2 HD
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6099/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1(PL/EN)
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/20058/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",SKY SPORT MOTO GP (IT)
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19133/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/234/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",SKY SPORT CALCIO IT
+#EXTINF:-1 group-title="SPORTS CHANNELS",SKYSPORT CALCIO (IT)
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19113/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS CHANNELS",FOX SPORTS 501 CRICKET HD AU
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19146/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS",SKYSPORT MOTO GP (IT)
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19133/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6uyWUaRYjQNfYSqdE2wRUjWzR2NL5ufQTw&s" group-title="SPORTS CHANNELS",SUPER TENNIS
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",TNT SPORTS 3
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/6564/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS CHANNELS",SETANTA SPORTS 1
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6543/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS",TNT SPORTS 4
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19054/index.m3u8
 
-#EXTINF:-1 group-title="SPORTS CHANNELS",SETANTA SPORTS +
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/5068/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="SPORTS CHANNELS",YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
