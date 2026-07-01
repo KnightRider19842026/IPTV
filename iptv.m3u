@@ -625,6 +625,21 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19064/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",CANAL+ SPORT 2 HD
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6099/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 1
+https://fomis.phantemlis.top/premium622/tracks-v1a1/mono.m3u8?md5=Nd01xhlH-EeG97dc-9G33w&expires=1782944905
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 1
+https://dlhd.st/watch.php?id=622|webdeskfulldig
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1
+https://kolis.phantemlis.top/premium911/tracks-v1a1/mono.m3u8?md5=DxNPcQw6dhVm8dafwnGuIg&expires=1782944275
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1
+https://api.cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd72d/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzJkOjE3ODI5NTU0NDI2MDk6YXBpLmNkbmxpdmV0di50djo1NDJlZjU0NTBhMDkxMjQ3LjgyNjc2ZTIwZGNkZTc3NjA5ZDEzNGM3NWRiYTMzNTQyMjRjNzczYjEyYjIyYzU1N2JkODIwNjQxOGEwMzkwZDg
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1
+https://dlhd.st/watch.php?id=911|webdeskfulldig
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRxnL_TdJ0tWjEoZ6HGTi-j1Z1hNcIjIfuQ&s" group-title="SPORTS CHANNELS",ERT SPORTS 1|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.mpd
 
