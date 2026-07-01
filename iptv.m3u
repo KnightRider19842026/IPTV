@@ -682,11 +682,41 @@ http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/20058/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (RU/EN)
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/9247/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (RU/EN)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/228/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (RU/EN)
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/5075/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (RO/HU)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6992/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (TR)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6829/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (SWEDISH)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12047/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (DE)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15179/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.info/l/f/1/1065.1447433721.png" group-title="SPORTS CHANNELS",EUROSPORT 1
 https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2 (RU/EN)
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/234/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2 (RU/EN)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/7203/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2 (TR)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6830/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2 (SWEDISH)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12048/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2 (IT)
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6556/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",FOX SPORTS 2 (AR)
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19138/index.m3u8
@@ -744,9 +774,6 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2506/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",TNT SPORTS 3
 http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/6564/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",TNT SPORTS 3
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6564/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",TNT SPORTS 3
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6564/index.m3u8
