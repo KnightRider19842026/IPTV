@@ -733,6 +733,9 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12048/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 2 (IT)
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6556/index.m3u8
 
+#EXTINF:-1 group-title="SPORTS CHANNELS",FOX SPORTS 1 (US)
+https://stream.iranvids.com/fox-sport-01/output.m3u8
+
 #EXTINF:-1 group-title="SPORTS CHANNELS",FOX SPORTS 2 (AR)
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19138/index.m3u8
 
@@ -843,11 +846,14 @@ https://www.bloomberg.com/live/us|webdeskfulldig
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 2
 https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 3
+https://livenewsof.com/bloomberg-tv/|webdeskfulldig
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CBS_News_logo.svg" group-title="NEWS",CBS NEWS|Ροή 1
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/3f76f2d0-0310-4168-8217-5b6aef849b48:GRQ/variant/746103095c4cba0bf336a095edd0798c/bandwidth/733000.m3u8
+http://www.freeintertv.com/view/id-2984/1-1-2-1?chname=cbs&findch=1|webdeskfulldig
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CBS_News_logo.svg" group-title="NEWS",CBS NEWS|Ροή 2
-http://www.freeintertv.com/view/id-2984/1-1-2-1?chname=cbs&findch=1|webdeskfulldig
+https://livenewsof.com/cbs-news/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohlr9IFmTeESe1oFoVPskr8niMSBxDu7g0w&s" group-title="NEWS",CGTN ENGLISH|Ροή 1
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
@@ -855,20 +861,23 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTohlr9IFmTeESe1oFoVPskr8niMSBxDu7g0w&s" group-title="NEWS",CGTN ENGLISH|Ροή 2
 https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC
+https://livenewsof.com/cnbc-live/|webdeskfulldig
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS|Ροή 1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS|Ροή 2
+https://livenewsof.com/cnn-live-stream/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN INTERNATIONAL|Ροή 1
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN INTERNATIONAL|Ροή 2
 https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC
-https://livenewsof.com/cnbc-live/|webdeskfulldig
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Grfxwhn0PUT5itMIw_2as1j4Mtni1diREQ&s" group-title="NEWS",CNBC TV18
-https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDl1qzZzYQGfli7yZe2phcGb3JE8TmlbxGA&s" group-title="NEWS",DW ENGLISH|Ροή 1
 https://dwamdstream102.akamaized.net/hls/live/2015525-b/dwstream102/stream05/streamPlaylist.m3u8
@@ -927,8 +936,11 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-de/25047/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png" group-title="NEWS",EURONEWS (HU)
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 
-#EXTINF:-1 group-title="NEWS",FOX NEWS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJiNLjTAv7YWqwTzo-rHi0tzv_XeT7WMFXQut0Iiskw&s=10" group-title="NEWS",FOX NEWS|Ροή 1
 https://livenewsof.com/fox-news-live-stream/|webdeskfulldig
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJiNLjTAv7YWqwTzo-rHi0tzv_XeT7WMFXQut0Iiskw&s=10" group-title="NEWS",FOX NEWS|Ροή 2
+http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19147/index.m3u8
 
 #EXTINF:-1 group-title="NEWS",FOX (LIVE NOW)
 http://www.freeintertv.com/view/id-1799/1-1-2-1?chname=fox+news&findch=1|webdeskfulldig
@@ -983,6 +995,9 @@ https://www.rainews.it/notiziari/rainews24|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/3840px-Rai_News_24_logo_%282022%29.svg.png" group-title="NEWS",RAINEWS 24 HD|Ροή 2
 https://d27wu3gni4gipu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/486f4644-e914-4b2d-8588-4eea3df5680d/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/3840px-Rai_News_24_logo_%282022%29.svg.png" group-title="NEWS",RAINEWS 24 HD|Ροή 3
+https://babaktv.com/rai-news/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbS51pegjwWQ28fzrT8SM-QIbm7l5QLQ43w&s" group-title="NEWS",RT TODAY|Ροή 1
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist.m3u8
@@ -1082,7 +1097,7 @@ https://babaktv.com/mbc-2/|webdeskfulldig
 https://babaktv.com/mbc-max/|webdeskfulldig
 
 #EXTINF:-1 group-title="MOVIES",MBC ACTION
-https://www.mbch.live/mbc_action|webdeskfulldig
+https://babaktv.com/mbc-action/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="MOVIES",AMC
 http://23.239.31.26:8989/amc/index.m3u8
@@ -1338,8 +1353,8 @@ http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 1
-http://88b9da48.kazmazpaz.ru:80/iptv/STCNW3QTF7ZL69DMSKHFAQ7Y/20090/manifest.m3u8
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 1 (Blacked.com)
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73608.m3u8
 
 #EXTINF:-1 group-title="XXX CHANNELS",XXX 2 (Blue Hustler)
 http://5.57.74.130:8000/play/a0c3/index.m3u8 
@@ -1377,3 +1392,6 @@ http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95420/hls/pl.m3u8
 http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95842/hls/pl.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
