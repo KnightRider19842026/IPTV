@@ -781,11 +781,14 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1vene9pYLjyd_ZzbzokiWSSRNKyHmjMAtw&s" group-title="NEWS",AFRICA NEWS (FR)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA (EN)|Ροή 1
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA  ENGLISH|Ροή 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA (EN)|Ροή 2
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCgPzhaGPLxkYvsHGqcpwI_iqAswCrmzxfQ&s" group-title="NEWS",AL JAZEERA (AR)
+https://live-hls-web-aja.getaj.net/AJA/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS",BBC WORLD NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -810,6 +813,12 @@ https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 3
 https://livenewsof.com/bloomberg-tv/|webdeskfulldig
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV (EUROPE)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-4-KZVY3t6YToC2_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV (AU)
+https://live-prod-aus-primary.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-2/Source-OZTVqvs-10000-1-sxrye5-BP-HD-6-W7mY5uVEtLF4_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-Zf93hqg3Fq_kolsRpkdOrDviroFRej8hoiIP1ifJw&s" group-title="NEWS",CBC NEWS
 https://www.youtube.com/watch?v=5vfaDsMhCF4
@@ -837,6 +846,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS|Ροή 2
 https://livenewsof.com/cnn-live-stream/|webdeskfulldig
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN NEWS|Ροή 3
+https://www.livehdtv.com/ch612/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5qbYrWblEWdFFAOZa3KaAlnPTvlGayE_mA&s" group-title="NEWS",CNN INTERNATIONAL|Ροή 1
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
@@ -964,6 +976,9 @@ https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanGvbYmV_uvs-ETfovp6vF3jDuuO3fb9JSw&s" group-title="NEWS",FRANCE 24 (ES)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMacCvg_xz4c0DNIBvmXp9t29dsSsZT3vOeDBAgiQEmQ&s" group-title="NEWS",GLOBAL NEWS (CA)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="NEWS",I24 NEWS ENGLISH
 https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
 
@@ -984,6 +999,9 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/960px-MSNBC_2015-2021_logo.svg.png" group-title="NEWS",MSNBC|Ροή 2
 https://livenewsof.com/msnbc-news-live-stream/|webdeskfulldig
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Newsmax2_vertical_logo.webp/revision/latest?cb=20250720212236" group-title="NEWS", NEWMAX
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Newsmax2_vertical_logo.webp/revision/latest?cb=20250720212236" group-title="NEWS", NEWMAX2
 https://7520e16e3d344337afc4c88f01c838bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/7d1117fd-9edc-4158-911e-c1284fdb2b54/1.m3u8
@@ -1012,11 +1030,17 @@ https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbS51pegjwWQ28fzrT8SM-QIbm7l5QLQ43w&s" group-title="NEWS",RT (FR)
 https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKyNG5nLl5WyJ30p4AlR_-ZZ6bFfAGWvmjEwhP2orjg&s" group-title="NEWS",Russia 24
+https://streaming.televizor-24-tochka.ru/live/30-req_offset_28000000-req_window_0-1k_v5.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-jJa-GZBupJ5pmLF41rEwuHA2mgC-fLhhg&s" group-title="NEWS",SKY NEWS ENGLISH|Ροή 1
 https://news.sky.com/watch-live|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-jJa-GZBupJ5pmLF41rEwuHA2mgC-fLhhg&s" group-title="NEWS",SKY NEWS ENGLISH|Ροή 2
 https://d3f4oii5n0oeqi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_tcl-ams-aws/e5c41c10-cd55-4a92-b31f-c28bf86ae73f/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-jJa-GZBupJ5pmLF41rEwuHA2mgC-fLhhg&s" group-title="NEWS",SKY NEWS (AU)
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master_468p.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.jpg" group-title="NEWS",SKY NEWS ARABIC
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
@@ -1319,41 +1343,6 @@ https://adult-tv-channels.com/pink-erotic-8-tv-online/|webdeskfulldig
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Центральное ТВ RU
-http://ru.iptv.monster/play/13021/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",DITV XXX
-http://ru.iptv.monster/play/2065/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Eromania 4K РОССИЯ
-http://ru.iptv.monster/play/1703/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",OLERO Babes РОССИЯ
-http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Penthouse Gold HD РОССИЯ
-http://ru.iptv.monster/play/6880/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",OLERO Babes РОССИЯ
-http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Penthouse Gold HD РОССИЯ
-http://ru.iptv.monster/play/6880/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",ОХ-АХ HD
-http://ru.iptv.monster/play/1767/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Redlight HD РОССИЯ
-http://ru.iptv.monster/play/594/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Русская Ночь
-http://ru.iptv.monster/play/132/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER 2",Penthouse Reality TV РОССИЯ
-http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
-
-#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 #EXTINF:-1 group-title="XXX CHANNELS",XXX 1 (Blacked.com)
 http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73608.m3u8
 
@@ -1362,6 +1351,9 @@ http://5.57.74.130:8000/play/a0c3/index.m3u8
 
 #EXTINF:-1 group-title="XXX CHANNELS",XXX 3 (Desire)
 http://5.57.74.130:8000/play/a0c4/index.m3u8
+
+#EXTINF:-1 group-title="XXX CHANNELS",XXX 4 (Hustler TV)
+http://d029dcec.kazmazpaz.ru/iptv/RL8MVW8UX8NNXK/244/manifest.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
