@@ -585,16 +585,16 @@ https://fomis.phantemlis.top/premium622/tracks-v1a1/mono.m3u8?md5=Nd01xhlH-EeG97
 https://dlhd.st/watch.php?id=622|webdeskfulldig
 
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/34/202410220455142970e2.png" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1|Ροή 1
-https://daddylive.eu/live/stream=Cytavision-Sports-1-CY&source=list8-4a|webdeskfulldig
+https://daddylive.eu/live/stream=Cytavision-Sports-1-CY&source=list8-4b|webdeskfulldig
 
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/34/202410220455142970e2.png" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1|Ροή 2
-https://daddylive.eu/live/stream=Cytavision-Sports-1-CY&source=list8&player=2-4a|webdeskfulldig
+https://daddylive.eu/live/stream=Cytavision-Sports-1-CY&source=list8&player=2-4b|webdeskfulldig
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 2
-https://daddylive.eu/live/stream=Cytavision-Sports-2-CY&source=list8-4a|webdeskfulldig
+https://daddylive.eu/live/stream=Cytavision-Sports-2-CY&source=list8-4b|webdeskfulldig
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 2
-https://daddylive.eu/live/stream=Cytavision-Sports-2-CY&source=list8&player=2-4a|webdeskfulldig
+https://daddylive.eu/live/stream=Cytavision-Sports-2-CY&source=list8&player=2-4b|webdeskfulldig
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 3
 https://daddylive.eu/live/stream=Cytavision-Sports-3-CY&source=list8-4b|webdeskfulldig
@@ -607,6 +607,24 @@ https://daddylive.eu/live/stream=Cytavision-Sports-4-CY&source=list8-4b|webdeskf
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 4
 https://daddylive.eu/live/stream=Cytavision-Sports-4-CY&source=list8&player=2-4b|webdeskfulldig
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 5
+https://daddylive.eu/live/stream=Cytavision-Sports-5-CY&source=list8-4b|webdeskfulldig
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 5
+https://daddylive.eu/live/stream=Cytavision-Sports-5-CY&source=list8&player=2-4b|webdeskfulldig
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 6
+https://daddylive.eu/live/stream=Cytavision-Sports-6-CY&source=list8-4b|webdeskfulldig
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 6
+https://daddylive.eu/live/stream=Cytavision-Sports-6-CY&source=list8&player=2-4b|webdeskfulldig
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 7
+https://daddylive.eu/live/stream=Cytavision-Sports-7-CY&source=list8-4b|webdeskfulldig
+
+#EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 7
+https://daddylive.eu/live/stream=Cytavision-Sports-7-CY&source=list8&player=2-4b|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRxnL_TdJ0tWjEoZ6HGTi-j1Z1hNcIjIfuQ&s" group-title="SPORTS CHANNELS",ERT SPORTS 1|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.mpd
