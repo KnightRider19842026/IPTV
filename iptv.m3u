@@ -16,15 +16,9 @@ https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 https://l2.cloudskep.com/antl2/abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sigma" tvg-name="Sigma" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8B_3UnLNsRBUPOOH_v5UlxWUtXg92zY4vw&s" group-title="CYPRUS CHANNELS - SERVERS MIX",SIGMA TV|Ροή 1
-https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sigma" tvg-name="Sigma" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8B_3UnLNsRBUPOOH_v5UlxWUtXg92zY4vw&s" group-title="CYPRUS CHANNELS - SERVERS MIX",SIGMA TV|Ροή 2
-https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist_1000.m3u8
-
-#EXTINF:-1 tvg-id="Sigma" tvg-name="Sigma" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8B_3UnLNsRBUPOOH_v5UlxWUtXg92zY4vw&s" group-title="CYPRUS CHANNELS - SERVERS MIX",SIGMA TV|Ροή 3
 https://ottstream4.primetel.com.cy/streaming-web/SigmaLive/playlist_1000.m3u8
 
-#EXTINF:-1 tvg-id="Sigma" tvg-name="Sigma" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8B_3UnLNsRBUPOOH_v5UlxWUtXg92zY4vw&s" group-title="CYPRUS CHANNELS - SERVERS MIX",SIGMA TV|Ροή 4
+#EXTINF:-1 tvg-id="Sigma" tvg-name="Sigma" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8B_3UnLNsRBUPOOH_v5UlxWUtXg92zY4vw&s" group-title="CYPRUS CHANNELS - SERVERS MIX",SIGMA TV|Ροή 2
 https://sl2.sigmatv.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpW-tamlcGOluouwf31WR3vJoBhb79bjyh7Q&s" group-title="CYPRUS CHANNELS - SERVERS MIX",VERGINA TV
@@ -591,13 +585,13 @@ https://fomis.phantemlis.top/premium622/tracks-v1a1/mono.m3u8?md5=Nd01xhlH-EeG97
 https://dlhd.st/watch.php?id=622|webdeskfulldig
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1
-https://kolis.phantemlis.top/premium911/tracks-v1a1/mono.m3u8?md5=DxNPcQw6dhVm8dafwnGuIg&expires=1782944275
+https://xameleon.phantemlis.top/two/secure/c3daeeaf1baaa1588d50df83b5e5bc08/1783980961/premium911/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1
-https://api.cdnlivetv.tv/secure/api/v1/6a288d2c81d8192bb76cd72d/playlist.m3u8?token=NmEyODhkMmM4MWQ4MTkyYmI3NmNkNzJkOjE3ODI5NTU0NDI2MDk6YXBpLmNkbmxpdmV0di50djo1NDJlZjU0NTBhMDkxMjQ3LjgyNjc2ZTIwZGNkZTc3NjA5ZDEzNGM3NWRiYTMzNTQyMjRjNzczYjEyYjIyYzU1N2JkODIwNjQxOGEwMzkwZDg
+https://daddylive.eu/live/stream=Cytavision-Sports-1-CY&source=list8-4a|webdeskfulldig
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1
-https://dlhd.st/watch.php?id=911|webdeskfulldig
+https://daddylive.eu/live/stream=Cytavision-Sports-1-CY&source=list8&player=2-4a|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRxnL_TdJ0tWjEoZ6HGTi-j1Z1hNcIjIfuQ&s" group-title="SPORTS CHANNELS",ERT SPORTS 1|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.mpd
