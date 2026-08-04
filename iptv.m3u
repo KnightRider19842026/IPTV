@@ -89,6 +89,35 @@ https://anacon.org/app/chans/cy/smilecyimage.php|webview zoom=200 scroll=0,400
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",RIK 1
+http://213.7.216.229:8888/udp/239.23.0.1:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",RIK 2
+http://213.7.216.229:8888/udp/239.23.0.2:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",ERT COSMOS
+http://213.7.216.229:8888/udp/239.23.0.3:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",EURONEWS
+http://213.7.216.229:8888/udp/239.23.0.4:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",RIK HD
+http://213.7.216.229:8888/udp/239.23.0.5:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",ANT1
+http://213.7.216.229:8888/udp/239.23.6.1:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",OMEGA
+http://213.7.216.229:8888/udp/239.23.6.2:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",SIGMA
+http://213.7.216.229:8888/udp/239.23.6.3:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",ALPHA
+http://213.7.216.229:8888/udp/239.23.5.1:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",PLUS
+http://213.7.216.229:8888/udp/239.23.6.4:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",EXTRA
+http://213.7.216.229:8888/udp/239.23.6.5:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",CAPITAL
+http://213.7.216.229:8888/udp/239.23.6.6:1234
+#EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",VERGINA
+http://213.7.216.229:8888/udp/239.23.5.1:1234
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:0 group-title="CYPRUS RADIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxHnaWaaJdA6kcQC7csWhsnYI-bwv5BTIWrg&s",MIX FM 
 
 http://eco.onestreaming.com:8127
