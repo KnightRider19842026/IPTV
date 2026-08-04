@@ -171,24 +171,10 @@ http://185.110.242.208:8085/;stream.mp3
 https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_1080/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD|Ροή 2
-https://daddylive.eu/live/stream=774-4b|webdeskfulldig
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD|Ροή 3
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 1
-#EXTVLCOPT:http-referrer=https://player.msvdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34&referer=https://player.msvdn.net/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 2
-https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 3
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT|Ροή 4
-https://tinyurl.com/27acfh5y
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/3840px-ERT3_logo_2020.svg.png" group-title="GREEK CHANNELS",ERT3|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
@@ -215,17 +201,20 @@ https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate600K_avc1_mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvGo7voK38jrpm6_p4LxFHz0hFwTXg95BNw&s" group-title="GREEK CHANNELS",SKAI TV|Ροή 2
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFED_TRWko-LbGDvT_MouEUmi5rsuRtg61Q&s" group-title="GREEK CHANNELS", STAR TV|Ροή 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFED_TRWko-LbGDvT_MouEUmi5rsuRtg61Q&s" group-title="GREEK CHANNELS", STAR TV
 https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFED_TRWko-LbGDvT_MouEUmi5rsuRtg61Q&s" group-title="GREEK CHANNELS", STAR TV|Ροή 2
-https://www.star.gr/tv/live-stream|webdeskalldig
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" group-title="GREEK CHANNELS",ANT1 TV|Ροή 1
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-mp4a_128000_eng=2334241234.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" group-title="GREEK CHANNELS",ANT1 TV
-https://www.antenna.gr/live|webdeskfulldig
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" group-title="GREEK CHANNELS",ANT1 TV|Ροή 2
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-avc1_8000000=1141144780.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o6Md2eaUuWxsd7mh-38GSskLSmtFIqystw&s" group-title="GREEK CHANNELS",MAK TV
-https://www.antenna.gr/livemak|webdeskfulldig
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o6Md2eaUuWxsd7mh-38GSskLSmtFIqystw&s" group-title="GREEK CHANNELS",MAK TV|Ροή 1
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK-mp4a_128000_eng=2334241234.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o6Md2eaUuWxsd7mh-38GSskLSmtFIqystw&s" group-title="GREEK CHANNELS",MAK TV|Ροή 2
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK-avc1_8000000=1141144780.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/432-4327115_24-open-tv-rh-protothema-gr-tv-clip-art-tv-channel-open.png" group-title="GREEK CHANNELS",OPEN TV|Ροή 1
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
@@ -250,14 +239,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.mpd
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2x14uvKNGfy8IEViyxaof94vxuGFD6W8Hsg&s" group-title="GREEK CHANNELS WEB",ANTENNA DRAMA|Ροή 1
-https://www.antenna.gr/livedrama|webdeskfulldig
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2x14uvKNGfy8IEViyxaof94vxuGFD6W8Hsg&s" group-title="GREEK CHANNELS WEB",ANTENNA DRAMA|Ροή 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2x14uvKNGfy8IEViyxaof94vxuGFD6W8Hsg&s" group-title="GREEK CHANNELS WEB",ANTENNA DRAMA
 https://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtLNfcxvhWzKA1Ho-C8ZNCfhbSETZyvBDXw&s" group-title="GREEK CHANNELS WEB",ANTENNA COMEDY|Ροή 1
-https://www.antenna.gr/livecomedy|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtLNfcxvhWzKA1Ho-C8ZNCfhbSETZyvBDXw&s" group-title="GREEK CHANNELS WEB",ANTENNA COMEDY|Ροή 2
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
@@ -276,16 +259,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.mpd
 #EXTINF:-1 tvg-id="RIKSAT" tvg-name="RIKSAT" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/44/RIK_Sat_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20210425164353" group-title="GREEK CHANNELS WORLD",RIKSAT|Ροή 4
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/RIK/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ftey8v3Adz42OD8sgv3K6-oQX54oRGQFXg&s" group-title="GREEK CHANNELS WORLD",ERT WORLD HD|Ροή 1
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTWorld/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ftey8v3Adz42OD8sgv3K6-oQX54oRGQFXg&s" group-title="GREEK CHANNELS WORLD",ERT WORLD HD|Ροή 2
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTWorld_Cyprus/default/ERTWorld_Cyprus-audio_210600_gre=210400-video=812000.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ftey8v3Adz42OD8sgv3K6-oQX54oRGQFXg&s" group-title="GREEK CHANNELS WORLD",ERT WORLD HD|Ροή 3
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ftey8v3Adz42OD8sgv3K6-oQX54oRGQFXg&s" group-title="GREEK CHANNELS WORLD",ERT WORLD HD|Ροή 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQamAfjQ5kePygyofTvfu-mxvCxIwAwGIN_whPaCNkKsA&s" group-title="GREEK CHANNELS WORLD",ERT COSMOS HD
 https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERTCosmos/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFED_TRWko-LbGDvT_MouEUmi5rsuRtg61Q&s" group-title="GREEK CHANNELS WORLD",STAR TV INTERNATIONAL
@@ -495,35 +469,26 @@ https://tinyurl.com/274xp2wd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="KIDS",DUCK TV HD
 https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png" group-title="KIDS",Baby TV|Ροή 1
-http://41.205.93.154/BABY-TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png" group-title="KIDS",Baby TV|Ροή 2
-http://41.223.30.230/BABYTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="KIDS",Boomerang
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="KIDS",BOOMERANG
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="KIDS",BOOMERANG
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ4xyL1eWC4_hxvEZIDgsZCalqPArI_dL4BwDJJJ46XA&s" group-title="KIDS",TOM & JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="KIDS",Cartoon Network
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="KIDS",CARTOON NETWORK (US)
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="KIDS",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="KIDS",CARTOON NETWORK (RU)
 http://176.118.197.101/Cartoon_Network/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS",Disney XD
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS",DISNEY XD (US)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL97mgZczyhYSwxX6rwRSDsBhPLK7gOlCEA&s" group-title="KIDS",Disney Junior
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL97mgZczyhYSwxX6rwRSDsBhPLK7gOlCEA&s" group-title="KIDS",DISNEY JUNIOR (US)
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS",Nickelodeon|Ροή 1
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS",NICKELODEON (US)
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS",Nickelodeon|Ροή 2
-http://185.78.112.47:8077/nickelodeon/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="KIDS",NICK JR
 https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
@@ -696,7 +661,7 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12047/index.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15179/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (GR)
-https://daddylive.mov/live/stream=41-4m|webdeskfulldig
+https://dlhd.st/watch.php?id=41|webfulldig
 
 #EXTINF:-1 tvg-logo="https://media.info/l/f/1/1065.1447433721.png" group-title="SPORTS CHANNELS",EUROSPORT 1
 https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
