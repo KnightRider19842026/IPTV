@@ -1096,8 +1096,14 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="DOCUMENTARY",Animal Planet|Ροή 2
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="DOCUMENTARY",Animal Planet (RU)
+http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8?ads=1&campaign=ott_114&filter.tracks=v1a1&token=f076dedccdad9011a62d704fd599fc44
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="DOCUMENTARY",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="DOCUMENTARY",Discovery Channel (RU)
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/10/vice_logo_0.jpg?w=640&h=360&crop=1" group-title="DOCUMENTARY",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
@@ -1108,11 +1114,35 @@ http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1O2jDVeTiiiD-33SGoKt-gbhL-3cWqkW9g&s" group-title="DOCUMENTARY",National Geographic Wild East
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1O2jDVeTiiiD-33SGoKt-gbhL-3cWqkW9g&s" group-title="DOCUMENTARY",National Geographic Wild (RU)
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugolVDEFSN_ODak0vF1L8A5_KjbhiC9UdQg&s" group-title="DOCUMENTARY",National Geographic East
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugolVDEFSN_ODak0vF1L8A5_KjbhiC9UdQg&s" group-title="DOCUMENTARY",National Geographic (RU)
+http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8?ads=1&campaign=ott_116&filter.tracks=v1a1&token=4c840d3981784c71e9efa9b5d450d783
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7C_5mtPeCXDcOhO79Zc33jFnWeStFh9q1Q&s" group-title="DOCUMENTARY",Crime Investigation
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="DOCUMENTARY",History 2 (RU)
+https://s70378.cdn.ngenix.net/history_2/2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="DOCUMENTARY",History (RU)
+https://s70378.cdn.ngenix.net/history/2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="DOCUMENTARY",RT Doc
+https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKC_lqNs3gJDscFDZgYwSEh6fnHZyXpnpJYnYI6EzX6w&s=10" group-title="DOCUMENTARY",Travel Channel (RU)
+http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_TRAVEL_CHANNEL/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXEA3iKTCSeaklM8cqfkjQfQfv3dWseCgIy4VoB-jRQ&s=10" group-title="DOCUMENTARY",Travel+ Adventure (RU)
+http://77.232.131.211/TravelAdventureHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRN35xt2WU631al8K_hqx_jGhBh1U_55I36PmHtpNB2Q&s=10" group-title="DOCUMENTARY",ID (RU)
+http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8?ads=1&campaign=ott_205&filter.tracks=v1a1&token=6dc0e163c12df514969541e6e9711142
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
