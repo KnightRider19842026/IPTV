@@ -85,34 +85,46 @@ https://anacon.org/app/chans/cy/capitalcyprus.php|webview zoom=200 scroll=0,400
 https://anacon.org/app/chans/cy/verginacyimage.php|webview zoom=200 scroll=0,400
 
 #EXTINF:-1 tvg-logo="https://www.cypruswebsites.com/images/advertisments/12975/nd/smiletv-logo.jpg" group-title="CYPRUS CHANNELS - WEBPAGE",SMILE TV CY
-https://anacon.org/app/chans/cy/smilecyimage.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/smilecyimage.php|webautoview zoom=200 scroll=0,400
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",RIK 1
 http://213.7.216.229:8888/udp/239.23.0.1:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",RIK 2
 http://213.7.216.229:8888/udp/239.23.0.2:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",ERT COSMOS
 http://213.7.216.229:8888/udp/239.23.0.3:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",EURONEWS
 http://213.7.216.229:8888/udp/239.23.0.4:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",RIK HD
 http://213.7.216.229:8888/udp/239.23.0.5:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",ANT1
 http://213.7.216.229:8888/udp/239.23.6.1:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",OMEGA
 http://213.7.216.229:8888/udp/239.23.6.2:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",SIGMA
 http://213.7.216.229:8888/udp/239.23.6.3:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",ALPHA
 http://213.7.216.229:8888/udp/239.23.5.1:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",PLUS
 http://213.7.216.229:8888/udp/239.23.6.4:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",EXTRA
 http://213.7.216.229:8888/udp/239.23.6.5:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",CAPITAL
 http://213.7.216.229:8888/udp/239.23.6.6:1234
+
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",VERGINA
 http://213.7.216.229:8888/udp/239.23.5.1:1234
 
@@ -690,7 +702,7 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12047/index.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/15179/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",EUROSPORT 1 (GR)
-https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9oYW1pcy5yb21wb25hbGlzLnN0L3ByZW1pdW10di9kYWRkeTIucGhwP2lkPTQxIiwibTN1OCI6Imh0dHBzOi8veGFtZWxlb24ucGhhbnRlbWxpcy50b3AvdHdvL3NlY3VyZS80ZTU5Mjc5OTIyMzI5ODA5ZGRiYmVkM2NmYjRjNjIzZi8xNzg2NDk4MzYzL3ByZW1pdW00MS90cmFja3MtdjFhMS9tb25vLm0zdTgiLCJ0cyI6MTc4NjQ4NzU2ODg1MywiY2hhbm5lbElkIjoiNDEifQ
+https://tvnow247.top/watch/eurosport-1-greece/|webautoview= zoom=100 scroll=0,0
 
 #EXTINF:-1 tvg-logo="https://media.info/l/f/1/1065.1447433721.png" group-title="SPORTS CHANNELS",EUROSPORT 1
 https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
