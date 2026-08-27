@@ -55,40 +55,34 @@ https://verginatv.com.cy/web-tv|webdeskfulldig
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="rik1.cy" tvg-name="rik1.cy" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" group-title="CYPRUS CHANNELS - WEBPAGE",RIK1
-https://anacon.org/app/chans/cy/rik1cyprus.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/rik1cyprus.php|webfulldig
 
 #EXTINF:-1 tvg-id="rik2.cy" tvg-name="rik2.cy" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" group-title="CYPRUS CHANNELS - WEBPAGE",RIK2
-https://anacon.org/app/chans/cy/rik2image.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/rik2image.php|webfulldig
 
 #EXTINF:-1 tvg-id="omega.cy" tvg-name="omega.cy"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Omega_Transparent.png" group-title="CYPRUS CHANNELS - WEBPAGE",OMEGA TV
-https://anacon.org/app/chans/cy/megacyimage.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/megacyimage.php|webfulldig
 
 #EXTINF:-1 tvg-id="ant1.cy" tvg-name="ant1.cy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIP_1-RoofcnVjV1W2Q891PvjTPKLz7_EZpA&s" group-title="CYPRUS CHANNELS - WEBPAGE",ANT1 TV
-https://anacon.org/app/chans/cy/ant1cyprus.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/ant1cyprus.php|webfulldig
 
 #EXTINF:-1 tvg-id="Sigma" tvg-name="Sigma" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8B_3UnLNsRBUPOOH_v5UlxWUtXg92zY4vw&s" group-title="CYPRUS CHANNELS - WEBPAGE",SIGMA TV
-https://anacon.org/app/chans/cy/sigmaimage.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/sigmaimage.php|webfulldig
 
 #EXTINF:-1 tvg-id="alpha.cy" tvg-name="alpha.cy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" group-title="CYPRUS CHANNELS - WEBPAGE",ALPHA TV CY
-https://anacon.org/app/chans/cy/alphacyprus.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/alphacyprus.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_Pi8PuRF06-cKHjEsxqc_XkA1WEJGXN4Rg&s" group-title="CYPRUS CHANNELS - WEBPAGE",PLUS TV
-https://anacon.org/app/chans/cy/pluscyimage.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/pluscyimage.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="CYPRUS CHANNELS - WEBPAGE",ONE CHANNEL CYPRUS
-https://anacon.org/app/chans/cy/extracyprus.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/extracyprus.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlJ3XE3ma8cXl6Jm9QhJEbTu43PM4VffDPEw&s" group-title="CYPRUS CHANNELS - WEBPAGE",CAPITAL TV
-https://anacon.org/app/chans/cy/capitalcyprus.php|webview zoom=200 scroll=0,400
+https://anacon.org/app/chans/cy/capitalcyprus.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVNSh7rpzW7EuHCt3NTLDWwhM2lAoYNpNS0w&s" group-title="CYPRUS CHANNELS - WEBPAGE",VERGINA TV CY
-https://anacon.org/app/chans/cy/verginacyimage.php|webview zoom=200 scroll=0,400
-
-#EXTINF:-1 tvg-logo="https://www.cypruswebsites.com/images/advertisments/12975/nd/smiletv-logo.jpg" group-title="CYPRUS CHANNELS - WEBPAGE",SMILE TV CY
-https://anacon.org/app/chans/cy/smilecyimage.php|webautoview zoom=200 scroll=0,400
-
-#EXTINF:-1 tvg-logo="https://www.cypruswebsites.com/images/advertisments/12975/nd/smiletv-logo.jpg" group-title="CYPRUS CHANNELS - WEBPAGE",SMILE TV CY
-https://anacon.org/app/chans/cy/smilecyimage.php|webdeskfulldig
+https://anacon.org/app/chans/cy/verginacyimage.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://www.cypruswebsites.com/images/advertisments/12975/nd/smiletv-logo.jpg" group-title="CYPRUS CHANNELS - WEBPAGE",SMILE TV CY
 https://anacon.org/app/chans/cy/smilecyimage.php|webfulldig
@@ -621,7 +615,7 @@ https://tvnow247.top/embed/cytavision-sports-7-cyprus/|webdeskview zoom=100 scro
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1
 https://daddylive.mov/live/stream=622&player=1|webfulldig
 #EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1 (2)
 https://daddylive.mov/live/stream=622&player=7|webfulldig
