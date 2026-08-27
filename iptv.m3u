@@ -87,6 +87,12 @@ https://anacon.org/app/chans/cy/verginacyimage.php|webview zoom=200 scroll=0,400
 #EXTINF:-1 tvg-logo="https://www.cypruswebsites.com/images/advertisments/12975/nd/smiletv-logo.jpg" group-title="CYPRUS CHANNELS - WEBPAGE",SMILE TV CY
 https://anacon.org/app/chans/cy/smilecyimage.php|webautoview zoom=200 scroll=0,400
 
+#EXTINF:-1 tvg-logo="https://www.cypruswebsites.com/images/advertisments/12975/nd/smiletv-logo.jpg" group-title="CYPRUS CHANNELS - WEBPAGE",SMILE TV CY
+https://anacon.org/app/chans/cy/smilecyimage.php|webdeskfulldig
+
+#EXTINF:-1 tvg-logo="https://www.cypruswebsites.com/images/advertisments/12975/nd/smiletv-logo.jpg" group-title="CYPRUS CHANNELS - WEBPAGE",SMILE TV CY
+https://anacon.org/app/chans/cy/smilecyimage.php|webfulldig
+
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="CYPRUS CHANNELS - SERVER CYTA",RIK 1
@@ -541,254 +547,252 @@ https://tinyurl.com/3e644vsb
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTM3U url-tvg="https://github.com/possiblelife/tmyv/raw/refs/heads/main/mygu.xml"
 
-
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (1)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (1)
 https://dlhd.st/watch.php?id=911|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (2)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (2)
 https://daddylive.mov/live/stream=911&player=2|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (3)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (3)
 https://daddylive.mov/live/stream=911&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (4dig)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (4dig)
 https://tvnow247.top/embed/cytavision-sports-1-cyprus/|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (4view)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 1HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51531.png",Cytavision Sports 1 (4view)
 https://tvnow247.top/embed/cytavision-sports-1-cyprus/|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (1)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (1)
 https://dlhd.st/watch.php?id=912|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (2)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (2)
 https://daddylive.mov/live/stream=912&player=2|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (3)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (3)
 https://daddylive.mov/live/stream=912&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (4dig)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (4dig)
 https://tvnow247.top/embed/cytavision-sports-2-cyprus/|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (4view)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 2HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51532.png",Cytavision Sports 2 (4view)
 https://tvnow247.top/embed/cytavision-sports-2-cyprus/|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (1)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (1)
 https://dlhd.st/watch.php?id=913|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (2)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (2)
 https://daddylive.mov/live/stream=913&player=2|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (3)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (3)
 https://daddylive.mov/live/stream=913&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (4dig)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (4dig)
 https://tvnow247.top/embed/cytavision-sports-3-cyprus/|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (4view)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 3HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51533.png",Cytavision Sports 3 (4view)
 https://tvnow247.top/embed/cytavision-sports-3-cyprus/|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (1)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (1)
 https://dlhd.st/watch.php?id=914|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (2)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (2)
 https://daddylive.mov/live/stream=914&player=2|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (3)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (3)
 https://daddylive.mov/live/stream=914&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (4dig)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (4dig)
 https://tvnow247.top/embed/cytavision-sports-4-cyprus/|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (4view)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 4HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51534.png",Cytavision Sports 4 (4view)
 https://tvnow247.top/embed/cytavision-sports-4-cyprus/|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (1)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (1)
 https://dlhd.st/watch.php?id=915|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (2)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (2)
 https://daddylive.mov/live/stream=915&player=2|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (3)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (3)
 https://daddylive.mov/live/stream=915&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (4dig)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (4dig)
 https://tvnow247.top/embed/cytavision-sports-5-cyprus/|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (4view)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 5HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51535.png",Cytavision Sports 5 (4view)
 https://tvnow247.top/embed/cytavision-sports-5-cyprus/|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (1)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (1)
 https://dlhd.st/watch.php?id=916|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (2)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (2)
 https://daddylive.mov/live/stream=916&player=2|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (3)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (3)
 https://daddylive.mov/live/stream=916&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (4dig)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (4dig)
 https://tvnow247.top/embed/cytavision-sports-6-cyprus/|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (4view)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 6HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51536.png",Cytavision Sports 6 (4view)
 https://tvnow247.top/embed/cytavision-sports-6-cyprus/|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (1)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (1)
 https://dlhd.st/watch.php?id=917|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (2)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (2)
 https://daddylive.mov/live/stream=917&player=2|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (3)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (3)
 https://daddylive.mov/live/stream=917&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (4dig)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (4dig)
 https://tvnow247.top/embed/cytavision-sports-7-cyprus/|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΚΥΠΡΟΣ" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (4view)
+#EXTINF:-1 group-title="CYPRUS SPORTS CHANNELS" tvg-id="Cytavision Sports 7HD" tvg-logo="https://cablenet.com.cy/wp-content/plugins/tv-guide-plugin/assets/logos/51537.png",Cytavision Sports 7 (4view)
 https://tvnow247.top/embed/cytavision-sports-7-cyprus/|webdeskview zoom=100 scroll=0,0
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1
 https://daddylive.mov/live/stream=622&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1 (2)
 https://daddylive.mov/live/stream=622&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1 (3)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1 (3)
 https://daddylive.mov/live/stream=Cosmote-Sport-1-GR&source=list8|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1 (4dig)
 https://tvnow247.top/embed/cosmote-sport-1-hd|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT1HD_2_wide.png",Cosmote Sports 1 (4view)
 https://tvnow247.top/embed/cosmote-sport-1-hd|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2
 https://daddylive.mov/live/stream=623&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2 (2)
 https://daddylive.mov/live/stream=623&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2 (3)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2 (3)
 https://daddylive.mov/live/stream=Cosmote-Sport-2-GR&source=list8|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2 (4dig)
 https://tvnow247.top/embed/cosmote-sport-3-hd|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT2HD_2_wide.png",Cosmote Sports 2 (4view)
 https://tvnow247.top/embed/cosmote-sport-3-hd|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3
 https://daddylive.mov/live/stream=624&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3 (2)
 https://daddylive.mov/live/stream=624&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3 (3)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3 (3)
 https://daddylive.mov/live/stream=Cosmote-Sport-3-GR&source=list8|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3 (4dig)
 https://tvnow247.top/embed/cosmote-sport-3-hd|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT3HD_2_wide.png",Cosmote Sports 3 (4view)
 https://tvnow247.top/embed/cosmote-sport-3-hd|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4
 https://daddylive.mov/live/stream=625&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4 (2)
 https://daddylive.mov/live/stream=625&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4 (3)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4 (3)
 https://daddylive.mov/live/stream=Cosmote-Sport-4-GR&source=list8|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4 (4dig)
 https://tvnow247.top/embed/cosmote-sport-4-hd|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT4HD_2_wide.png",Cosmote Sports 4 (4view)
 https://tvnow247.top/embed/cosmote-sport-4-hd|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5
 https://daddylive.mov/live/stream=626&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5 (2)
 https://daddylive.mov/live/stream=626&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5 (3)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5 (3)
 https://daddylive.mov/live/stream=Cosmote-Sport-5-GR&source=list8|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5 (4dig)
 https://tvnow247.top/embed/cosmote-sport-5-hd|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT5HD_2_wide.png",Cosmote Sports 5 (4view)
 https://tvnow247.top/embed/cosmote-sport-5-hd|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6
 https://daddylive.mov/live/stream=627&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6 (2)
 https://daddylive.mov/live/stream=627&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6 (3)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6 (3)
 https://daddylive.mov/live/stream=Cosmote-Sport-6-GR&source=list8|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6 (4dig)
 https://tvnow247.top/embed/cosmote-sport-6-hd|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT6HD_2_wide.png",Cosmote Sports 6 (4view)
 https://tvnow247.top/embed/cosmote-sport-6-hd|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7
 https://daddylive.mov/live/stream=628&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7 (2)
 https://daddylive.mov/live/stream=628&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7 (3)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7 (3)
 https://daddylive.mov/live/stream=Cosmote-Sport-7-GR&source=list8|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7 (4dig)
 https://tvnow247.top/embed/cosmote-sport-7-hd|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 7" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT7HD_2_wide.png",Cosmote Sports 7 (4view)
 https://tvnow247.top/embed/cosmote-sport-7-hd|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8
 https://daddylive.mov/live/stream=629&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8 (2)
 https://daddylive.mov/live/stream=629&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8 (3)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8 (3)
 https://daddylive.mov/live/stream=Cosmote-Sport-8-GR&source=list8|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8 (4dig)
 https://tvnow247.top/embed/cosmote-sport-8-hd|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 8" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT8HD_2_wide.png",Cosmote Sports 8 (4view)
 https://tvnow247.top/embed/cosmote-sport-8-hd|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9
 https://daddylive.mov/live/stream=630&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9 (2)
 https://daddylive.mov/live/stream=630&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9 (3)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9 (3)
 https://daddylive.mov/live/stream=Cosmote-Sport-9-GR&source=list8|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9 (4dig)
 https://tvnow247.top/embed/cosmote-sport-9-hd|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Cosmote Sports 9" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/COSMOTESPORT9HD_2_wide.png",Cosmote Sports 9 (4view)
 https://tvnow247.top/embed/cosmote-sport-9-hd|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-wide.png",Nova Sports 1
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-wide.png",Nova Sports 1
 https://daddylive.mov/live/stream=631&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-wide.png",Nova Sports 1 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-wide.png",Nova Sports 1 (2)
 https://daddylive.mov/live/stream=631&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-wide.png",Nova Sports 1 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-wide.png",Nova Sports 1 (4dig)
 https://tvnow247.top/embed/nova-sports-greece-1|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-wide.png",Nova Sports 1 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-wide.png",Nova Sports 1 (4view)
 https://tvnow247.top/embed/nova-sports-greece-1|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-wide.png",Nova Sports 2
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-wide.png",Nova Sports 2
 https://daddylive.mov/live/stream=632&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-wide.png",Nova Sports 2 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-wide.png",Nova Sports 2 (2)
 https://daddylive.mov/live/stream=632&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-wide.png",Nova Sports 2 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-wide.png",Nova Sports 2 (4dig)
 https://tvnow247.top/embed/nova-sports-greece-2|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-wide.png",Nova Sports 2 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-wide.png",Nova Sports 2 (4view)
 https://tvnow247.top/embed/nova-sports-greece-2|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-wide.png",Nova Sports 3
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-wide.png",Nova Sports 3
 https://daddylive.mov/live/stream=633&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-wide.png",Nova Sports 3 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-wide.png",Nova Sports 3 (2)
 https://daddylive.mov/live/stream=633&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-wide.png",Nova Sports 3 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-wide.png",Nova Sports 3 (4dig)
 https://tvnow247.top/embed/nova-sports-greece-3|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-wide.png",Nova Sports 3 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 3" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-wide.png",Nova Sports 3 (4view)
 https://tvnow247.top/embed/nova-sports-greece-3|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova4-wide.png",Nova Sports 4
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova4-wide.png",Nova Sports 4
 https://daddylive.mov/live/stream=634&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova4-wide.png",Nova Sports 4 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova4-wide.png",Nova Sports 4 (2)
 https://daddylive.mov/live/stream=634&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova4-wide.png",Nova Sports 4 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova4-wide.png",Nova Sports 4 (4dig)
 https://tvnow247.top/embed/nova-sports-greece-4|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova4-wide.png",Nova Sports 4 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 4" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova4-wide.png",Nova Sports 4 (4view)
 https://tvnow247.top/embed/nova-sports-greece-4|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova5-wide.png",Nova Sports 5
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova5-wide.png",Nova Sports 5
 https://daddylive.mov/live/stream=635&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova5-wide.png",Nova Sports 5 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova5-wide.png",Nova Sports 5 (2)
 https://daddylive.mov/live/stream=635&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova5-wide.png",Nova Sports 5 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova5-wide.png",Nova Sports 5 (4dig)
 https://tvnow247.top/embed/nova-sports-greece-5|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova5-wide.png",Nova Sports 5 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 5" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova5-wide.png",Nova Sports 5 (4view)
 https://tvnow247.top/embed/nova-sports-greece-5|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova6-wide.png",Nova Sports 6
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova6-wide.png",Nova Sports 6
 https://daddylive.mov/live/stream=636&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova6-wide.png",Nova Sports 6 (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova6-wide.png",Nova Sports 6 (2)
 https://daddylive.mov/live/stream=636&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova6-wide.png",Nova Sports 6 (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova6-wide.png",Nova Sports 6 (4dig)
 https://tvnow247.top/embed/nova-sports-greece-6|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova6-wide.png",Nova Sports 6 (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports 6" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova6-wide.png",Nova Sports 6 (4view)
 https://tvnow247.top/embed/nova-sports-greece-6|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports News" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novanews-wide.png",Nova Sports News
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports News" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novanews-wide.png",Nova Sports News
 https://daddylive.mov/live/stream=639&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports News" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novanews-wide.png",Nova Sports News (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports News" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novanews-wide.png",Nova Sports News (2)
 https://daddylive.mov/live/stream=639&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports News" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novanews-wide.png",Nova Sports News (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports News" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novanews-wide.png",Nova Sports News (4dig)
 https://tvnow247.top/embed/nova-sports-news-greece|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports News" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novanews-wide.png",Nova Sports News (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports News" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novanews-wide.png",Nova Sports News (4view)
 https://tvnow247.top/embed/nova-sports-news-greece|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Premier League" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaplg-wide.png",Nova Sports Premier League
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Premier League" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaplg-wide.png",Nova Sports Premier League
 https://daddylive.mov/live/stream=599&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Premier League" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaplg-wide.png",Nova Sports Premier League (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Premier League" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaplg-wide.png",Nova Sports Premier League (2)
 https://daddylive.mov/live/stream=599&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Premier League" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaplg-wide.png",Nova Sports Premier League (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Premier League" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaplg-wide.png",Nova Sports Premier League (4dig)
 https://tvnow247.top/embed/nova-sports-premier-league-greece|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Premier League" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaplg-wide.png",Nova Sports Premier League (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Premier League" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaplg-wide.png",Nova Sports Premier League (4view)
 https://tvnow247.top/embed/nova-sports-premier-league-greece|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Prime" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaprime-wide.png",Nova Sports Prime
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Prime" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaprime-wide.png",Nova Sports Prime
 https://daddylive.mov/live/stream=638&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Prime" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaprime-wide.png",Nova Sports Prime (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Prime" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaprime-wide.png",Nova Sports Prime (2)
 https://daddylive.mov/live/stream=638&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Prime" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaprime-wide.png",Nova Sports Prime (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Prime" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaprime-wide.png",Nova Sports Prime (4dig)
 https://tvnow247.top/embed/nova-sports-prime-greece|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Prime" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaprime-wide.png",Nova Sports Prime (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Prime" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaprime-wide.png",Nova Sports Prime (4view)
 https://tvnow247.top/embed/nova-sports-prime-greece|webdeskview zoom=100 scroll=0,0
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Start" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-wide.png",Nova Sports Start
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Start" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-wide.png",Nova Sports Start
 https://daddylive.mov/live/stream=637&player=1|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Start" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-wide.png",Nova Sports Start (2)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Start" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-wide.png",Nova Sports Start (2)
 https://daddylive.mov/live/stream=637&player=7|webfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Start" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-wide.png",Nova Sports Start (4dig)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Start" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-wide.png",Nova Sports Start (4dig)
 https://tvnow247.top/embed/nova-sports-start-greece|webdeskfulldig
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ ΕΛΛΑΔΑ" tvg-id="Nova Sports Start" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-wide.png",Nova Sports Start (4view)
+#EXTINF:-1 group-title="GREECE SPORTS CHANNELS" tvg-id="Nova Sports Start" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-wide.png",Nova Sports Start (4view)
 https://tvnow247.top/embed/nova-sports-start-greece|webdeskview zoom=100 scroll=0,0
 
-
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",A SPOR TR HD
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19069/index.m3u8
@@ -801,78 +805,6 @@ http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19064/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNELS",CANAL+ SPORT 2 HD
 http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6099/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBAP4FlqCJ9ypBnm-9sj5bKkUq_b9eSFZJs5Gd5MAOw&s" group-title="SPORTS CHANNELS",COSMOTE SPORTS 1
-https://tvnow247.top/watch/cosmote-sport-1-hd/|webdeskfulldig
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvBAP4FlqCJ9ypBnm-9sj5bKkUq_b9eSFZJs5Gd5MAOw&s" group-title="SPORTS CHANNELS",COSMOTE SPORTS 1
-https://dlhd.st/watch.php?id=622|webdeskfulldig
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 2|Ροή 1
-https://daddylive.eu/live/stream=Cosmote-Sport-2-GR&source=list8-4g|webdeskfulldig
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 2|Ροή 2
-https://dlhd.st/watch.php?id=623|webdeskfulldig
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 6|Ροή 1
-https://daddylive.eu/live/stream=Cosmote-Sport-6-GR&source=list8-4g|webdeskfulldig
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 6|Ροή 2
-https://daddylive.eu/live/stream=Cosmote-Sport-6-GR&source=list8&player=2-4g|webdeskfulldig
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 8|Ροή 1
-https://daddylive.eu/live/stream=Cosmote-Sport-8-GR&source=list8-4g|webdeskfulldig
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 8|Ροή 2
-https://daddylive.eu/live/stream=Cosmote-Sport-8-GR&source=list8&player=2-4g|webdeskfulldig
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 9|Ροή 1
-https://daddylive.eu/live/stream=Cosmote-Sport-9-GR&source=list8-4g|webdeskfulldig
-
-#EXTINF:-1 group-title="SPORTS CHANNELS",COSMOTE SPORTS 9|Ροή 2
-https://daddylive.eu/live/stream=Cosmote-Sport-9-GR&source=list8&player=2-4g|webdeskfulldig
-
-#EXTINF:-1 tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/34/202410220455142970e2.png" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1|Ροή 1
-https://tvnow247.top/watch/cytavision-sports-1-cyprus/|webautoview zoom=100 scroll=0,0
-
-#EXTINF:-1 tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/34/202410220455142970e2.png" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 1|Ροή 2
-https://tvnow247.top/embed/cytavision-sports-1-cyprus/|webautoview zoom=100 scroll=0,0
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXLf5uJ4onMH5NQJRteVTyeJekuYzU5rfot_W0nF9Vzw&s=10" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 2|Ροή 1
-https://tvnow247.top/watch/cytavision-sports-2-cyprus/|webautoview zoom=100 scroll=0,0
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXLf5uJ4onMH5NQJRteVTyeJekuYzU5rfot_W0nF9Vzw&s=10" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 2|Ροή 2
-https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9oYW1pcy5yb21wb25hbGlzLnN0L3ByZW1pdW10di9kYWRkeTIucGhwP2lkPTkxMiIsIm0zdTgiOiJodHRwczovL3hhbWVsZW9uLnBoYW50ZW1saXMudG9wL3R3by9zZWN1cmUvM2U3M2EwNDhiOTIwODJlYjc3NWNjYTRlMzllYzZhNzEvMTc4NjQ5NzkxNi9wcmVtaXVtOTEyL3RyYWNrcy12MWExL21vbm8ubTN1OCIsInRzIjoxNzg2NDg3MTMyNDgyLCJjaGFubmVsSWQiOiI5MTIifQ
-
-#EXTINF:-1 tvg-logo="https://cablenet.com.cy/wp-content/uploads/cytavision-sports-3-tv-channel-logo.webp" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 3|Ροή 1
-https://tvnow247.top/watch/cytavision-sports-3-cyprus/|webautoview zoom=100 scroll=0,0
-
-#EXTINF:-1 tvg-logo="https://cablenet.com.cy/wp-content/uploads/cytavision-sports-3-tv-channel-logo.webp" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 3|Ροή 2
-token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9oYW1pcy5yb21wb25hbGlzLnN0L3ByZW1pdW10di9kYWRkeTIucGhwP2lkPTkxMyIsIm0zdTgiOiJodHRwczovL3hhbWVsZW9uLnBoYW50ZW1saXMudG9wL3R3by9zZWN1cmUvZTBmYzMyNGI2NWRiOGEwNDg0YjNlZGU1MWQwYjhmZWQvMTc4NjQ5Nzk5Mi9wcmVtaXVtOTEzL3RyYWNrcy12MWExL21vbm8ubTN1OCIsInRzIjoxNzg2NDg3MjA4ODc4LCJjaGFubmVsSWQiOiI5MTMifQ
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4zqQFQeaLA0V3ZSrufV6MH7a6DED2OlJEC3WWsHpbA&s=10" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 4|Ροή 1
-https://daddylive.eu/live/stream=Cytavision-Sports-4-CY&source=list8-4m|webdeskfulldig
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4zqQFQeaLA0V3ZSrufV6MH7a6DED2OlJEC3WWsHpbA&s=10" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 4|Ροή 2
-https://daddylive.eu/live/stream=Cytavision-Sports-4-CY&source=list8&player=2-4n|webdeskfulldig
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDTNYoIj27iSCAdANU6N78mhvQ8TP8KKcz7oRU4157vQ&s=10" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 5|Ροή 1
-https://tvnow247.top/watch/cytavision-sports-3-cyprus/|webautoview zoom=100 scroll=0,0
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDTNYoIj27iSCAdANU6N78mhvQ8TP8KKcz7oRU4157vQ&s=10" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 5|Ροή 2
-https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9oYW1pcy5yb21wb25hbGlzLnN0L3ByZW1pdW10di9kYWRkeTIucGhwP2lkPTkxMyIsIm0zdTgiOiJodHRwczovL3hhbWVsZW9uLnBoYW50ZW1saXMudG9wL3R3by9zZWN1cmUvZTBmYzMyNGI2NWRiOGEwNDg0YjNlZGU1MWQwYjhmZWQvMTc4NjQ5Nzk5Mi9wcmVtaXVtOTEzL3RyYWNrcy12MWExL21vbm8ubTN1OCIsInRzIjoxNzg2NDg3MjA4ODc4LCJjaGFubmVsSWQiOiI5MTMifQ
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfnJBDIArlrK9kQMeNfiCzmrqLb8WErLVO8fzQUUhSg&s=10" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 6|Ροή 1
-https://tvnow247.top/watch/cytavision-sports-6-cyprus/|webautoview zoom=100 scroll=0,0
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfnJBDIArlrK9kQMeNfiCzmrqLb8WErLVO8fzQUUhSg&s=10" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 6|Ροή 2
-https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9oYW1pcy5yb21wb25hbGlzLnN0L3ByZW1pdW10di9kYWRkeTIucGhwP2lkPTkxNiIsIm0zdTgiOiJodHRwczovL3hhbWVsZW9uLnBoYW50ZW1saXMudG9wL3R3by9zZWN1cmUvOWEyMGFhNDNkMjFiZGE2M2Y2YThjNDc2MTE4YWE3MmYvMTc4NjQ5ODI2Ny9wcmVtaXVtOTE2L3RyYWNrcy12MWExL21vbm8ubTN1OCIsInRzIjoxNzg2NDg3NDg1NDY3LCJjaGFubmVsSWQiOiI5MTYifQ
-
-#EXTINF:-1 tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/63/202410220554452982iv.png" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 7|ΡΟΗ 1
-https://tvnow247.top/watch/cytavision-sports-7-cyprus/|webautoview zoom=100 scroll=0,0
-
-#EXTINF:-1 tvg-logo="https://ott.cytavision.com.cy/CPS/images/universal/film/logo/202410/20241022/63/202410220554452982iv.png" group-title="SPORTS CHANNELS",CYTAVISION SPORTS 7|ΡΟΗ 2
-https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJyZWZlcmVyIjoiaHR0cHM6Ly9oYW1pcy5yb21wb25hbGlzLnN0L3ByZW1pdW10di9kYWRkeTIucGhwP2lkPTkxNyIsIm0zdTgiOiJodHRwczovL3hhbWVsZW9uLnBoYW50ZW1saXMudG9wL3R3by9zZWN1cmUvN2RhMGMzMDQwMGNlNDY0MzAyYmE2N2JjZDk2ODM1NDAvMTc4NjQ5ODE2MC9wcmVtaXVtOTE3L3RyYWNrcy12MWExL21vbm8ubTN1OCIsInRzIjoxNzg2NDg3Mzg3MDU0LCJjaGFubmVsSWQiOiI5MTcifQ
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRxnL_TdJ0tWjEoZ6HGTi-j1Z1hNcIjIfuQ&s" group-title="SPORTS CHANNELS",ERT SPORTS 1|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTSports1/default/index.mpd
@@ -1557,6 +1489,9 @@ http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/5015/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Eroxxx_%282013%29.svg/revision/latest/scale-to-width-down/200?cb=20171210224521" group-title="ADULT CHANNELS - SERVER",Eroxxx HD Россия|Ροή 3
 http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/5015/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Eroxxx_%282013%29.svg/revision/latest/scale-to-width-down/200?cb=20171210224521" group-title="ADULT CHANNELS - SERVER",Eroxxx HD Россия|Ροή 4
+http://88b9da48.kazmazpaz.ru:80/iptv/MM4E93NGF5LADZ/5015/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/9346/manifest.m3u8
 
@@ -1566,118 +1501,34 @@ http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/9346/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 3
 http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/9346/manifest.m3u8
 
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER",LEGAL PORNO
-http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/20090/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 4
+http://88b9da48.kazmazpaz.ru:80/iptv/MM4E93NGF5LADZ/9346/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 1
+http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/6290/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 2
+http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/6290/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 3
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6290/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 4
+http://88b9da48.kazmazpaz.ru:80/iptv/MM4E93NGF5LADZ/6290/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erotic 1
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12146/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 1
+http://eb4b8dcf.kablakaka.ru/iptv/5UTLZ77ZYQACMQ7WU4546MEU/6290/manifest.m3u8
 
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erotic 2
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/12147/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 2
+http://eb4b8dcf.kablakaka.ru/iptv/MVTMCC4UTAZVDT/6290/manifest.m3u8
 
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erotic 3
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12148/index.m3u8?rand=0.8271511541147056
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 3
+http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6290/manifest.m3u8
 
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erotic 3
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6240/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erotic 4
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/12149/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erotic 5
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/12150/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erotic 6
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/12151/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erotic 7
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/12152/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erotic 8
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12153/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",babes tv
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/2161/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",bratty sis
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12161/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",brazzers 
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6182/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",brazzers tv europe
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/910/index.m3u8?rand=0.24702008233338146
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",vivid red
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/2162/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",penthouse gold
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/5011/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",xy max
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/6286/index.m3u8?rand=0.18362844609251805
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",meiden van holland
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/12125/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",family swap
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12155/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",hustler tv
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/244/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",dorcel tv
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12131/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",xy plus
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6288/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",dorcel
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/245/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",xy mix
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6287/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",vivid tv
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6264/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",blacked.com	
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6178/index.m3u8?rand=0.11704855442798001
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",superone
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6298/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",erox
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6296/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",lust cinema
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6232/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",anal mom
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12189/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",penthouse reality tv
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/5012/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",penthouse reality tv
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/5013/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",vixen
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6265/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",private tv
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/243/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",hot
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6275/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",venus
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6284/index.m3u8
-
-#EXTINF:-1 group-title="ADULT CHANNELS - SERVER2",tiny 4k
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6258/index.m3u8?rand=0.13564161838027156
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 2|Ροή 4
+http://eb4b8dcf.kablakaka.ru/iptv/MM4E93NGF5LADZ/6290/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1770,20 +1621,6 @@ https://adult-tv-channels.com/pink-erotic-7-tv-online/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Pink_Erotic_8_RS_logo.png?1736425117" group-title="ADULT CHANNELS - WEBPAGE",PINK EROTIC 8
 https://adult-tv-channels.com/pink-erotic-8-tv-online/|webdeskfulldig
-
-#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 1 (Blacked.com)
-http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73608.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 2 (Blue Hustler)
-http://5.57.74.130:8000/play/a0c3/index.m3u8 
-
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 3 (Desire)
-http://5.57.74.130:8000/play/a0c4/index.m3u8
-
-#EXTINF:-1 group-title="XXX CHANNELS",XXX 4 (Hustler TV)
-http://d029dcec.kazmazpaz.ru/iptv/RL8MVW8UX8NNXK/244/manifest.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
