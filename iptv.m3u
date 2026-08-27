@@ -208,14 +208,11 @@ http://185.110.242.208:8085/;stream.mp3
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD|Ροή 1
-https://01eb71ee94ba4a1caf54da0c74efefb4.msvdn.net/ept_ch1/ept_ch1/mainabr/ept_ch1/ch1_1080/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD|Ροή 2
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT1/drm/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOzv8exNMDYIoYCW1XUfw2_YK73sH2MxP2g&s"group-title="GREEK CHANNELS",ERT1 HD
+https://anacon.org/app/chans/gr/ert1s2image.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUutENMLhcuCg4vyMgo2MXunBfDn5bMho4gg&s" group-title="GREEK CHANNELS",ERT2 SPORT
-https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/ERT2/drm/index.mpd
+https://anacon.org/app/chans/gr/ert2s2image.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/3840px-ERT3_logo_2020.svg.png" group-title="GREEK CHANNELS",ERT3|Ροή 1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
@@ -238,18 +235,23 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvGo7voK38jrpm6_p4LxFHz0hFwTXg95BNw&s" group-title="GREEK CHANNELS",SKAI TV|Ροή 1
 https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
 
-https://skai-live.siliconweb.com/media/cambria4/index_media_bitrate600K_avc1_mp4a.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvGo7voK38jrpm6_p4LxFHz0hFwTXg95BNw&s" group-title="GREEK CHANNELS",SKAI TV|Ροή 2
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFED_TRWko-LbGDvT_MouEUmi5rsuRtg61Q&s" group-title="GREEK CHANNELS", STAR TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFED_TRWko-LbGDvT_MouEUmi5rsuRtg61Q&s" group-title="GREEK CHANNELS", STAR TV|Ροή 1
 https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" group-title="GREEK CHANNELS",ANT1 TV|Ροή 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFED_TRWko-LbGDvT_MouEUmi5rsuRtg61Q&s" group-title="GREEK CHANNELS", STAR TV|Ροή 2
+https://lakatamia.tv/app/chans/gr/stargreece.php|webfulldig
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" tvg-id="ANT1 TV" tvg-name="ANT1 TV" group-title="GREEK CHANNELS",ANT1 TV|Ροή 1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-mp4a_128000_eng=2334241234.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" group-title="GREEK CHANNELS",ANT1 TV|Ροή 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" tvg-id="ANT1 TV" tvg-name="ANT1 TV" group-title="GREEK CHANNELS",ANT1 TV|Ροή 2
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-avc1_8000000=1141144780.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" tvg-id="ANT1 TV" tvg-name="ANT1 TV" group-title="GREEK CHANNELS",ANT1 TV|Ροή 3
+https://anacon.org/app/chans/gr/ant1image.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o6Md2eaUuWxsd7mh-38GSskLSmtFIqystw&s" group-title="GREEK CHANNELS",MAK TV|Ροή 1
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK-mp4a_128000_eng=2334241234.m3u8
@@ -1512,13 +1514,13 @@ http://88b9da48.kazmazpaz.ru:80/iptv/MM4E93NGF5LADZ/6290/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 2|Ροή 1
 http://eb4b8dcf.kablakaka.ru/iptv/5UTLZ77ZYQACMQ7WU4546MEU/6290/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 2|Ροή 2
 http://eb4b8dcf.kablakaka.ru/iptv/MVTMCC4UTAZVDT/6290/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 2|Ροή 3
 http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6290/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER 2",PINK EROTIC 2|Ροή 4
