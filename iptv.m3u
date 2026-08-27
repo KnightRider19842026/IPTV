@@ -245,12 +245,9 @@ https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 https://lakatamia.tv/app/chans/gr/stargreece.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" tvg-id="ANT1 TV" tvg-name="ANT1 TV" group-title="GREEK CHANNELS",ANT1 TV|Ροή 1
-https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-mp4a_128000_eng=2334241234.m3u8
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" tvg-id="ANT1 TV" tvg-name="ANT1 TV" group-title="GREEK CHANNELS",ANT1 TV|Ροή 2
-https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1-avc1_8000000=1141144780.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nBI-Cpb5zeZqlXeZUyJNOTW-DTt6irO65Q&s" tvg-id="ANT1 TV" tvg-name="ANT1 TV" group-title="GREEK CHANNELS",ANT1 TV|Ροή 3
 https://anacon.org/app/chans/gr/ant1image.php|webfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7o6Md2eaUuWxsd7mh-38GSskLSmtFIqystw&s" group-title="GREEK CHANNELS",MAK TV|Ροή 1
@@ -1485,9 +1482,6 @@ http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/5015/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Eroxxx_%282013%29.svg/revision/latest/scale-to-width-down/200?cb=20171210224521" group-title="ADULT CHANNELS - SERVER",Eroxxx HD Россия|Ροή 3
 http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/5015/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Eroxxx_%282013%29.svg/revision/latest/scale-to-width-down/200?cb=20171210224521" group-title="ADULT CHANNELS - SERVER",Eroxxx HD Россия|Ροή 4
-http://88b9da48.kazmazpaz.ru:80/iptv/MM4E93NGF5LADZ/5015/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/9346/manifest.m3u8
 
@@ -1496,9 +1490,6 @@ http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/9346/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 3
 http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/9346/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 4
-http://88b9da48.kazmazpaz.ru:80/iptv/MM4E93NGF5LADZ/9346/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/6290/manifest.m3u8
