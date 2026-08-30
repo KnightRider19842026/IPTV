@@ -1485,6 +1485,12 @@ http://88b9da48.kazmazpaz.ru:80/iptv/MVTMCC4UTAZVDT/9346/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1O9X4Dih9yBMdjfjHlnp8sUUdyzivIKMIFg&s" group-title="ADULT CHANNELS - SERVER",EXXXOTICA TV HD Россия|Ροή 3
 http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/9346/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/VividTV.jpeg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group -title="ADULT CHANNELS - SERVER",VIVID TV EUROPE|Ροή 1
+http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/6264/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMOBr1yrzK2SChslRi8ykMNkHb0RwWWXLUFN8dwbazA&s" group -title="ADULT CHANNELS - SERVER",XYMIX|Ροή 1
+http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/6287/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Pink_Erotic.png/revision/latest?cb=20210318150833" group-title="ADULT CHANNELS - SERVER",PINK EROTIC|Ροή 1
 http://88b9da48.kazmazpaz.ru:80/iptv/5UTLZ77ZYQACMQ7WU4546MEU/6289/manifest.m3u8
 
@@ -1508,6 +1514,8 @@ http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6290/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - SERVER",PINK EROTIC 2|Ροή 4
 http://88b9da48.kazmazpaz.ru:80/iptv/MM4E93NGF5LADZ/6290/index.m3u8
+
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/6264/index.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
