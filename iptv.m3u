@@ -486,6 +486,18 @@ https://cdn-fi.lulzy.eu/vclassic_stream/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFipgaomn9YUILOIZD0ETApl0uNLsK3Jqzz11-uIORMQ&s=10" group-title="MUSIC CHANNELS",REAL MUSIC TV GREECE
 https://webtv.topwebhost.gr:3302/stream/play.m3u8
 
+#EXTINF:-1 group-title="MUSIC CHANNELS",Britney Spears TV
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/14005/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNELS",NOW 70S
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19194/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNELS",NOW 80S
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19196/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNELS",NOW 90S
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/1038/index.m3u8
+
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="KIDS",BOOMERANG
@@ -754,7 +766,7 @@ https://www.bfmtv.com/en-direct/|webdeskfulldig
 https://www.bfmtv.com/en-direct/bfm2/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 1
-https://www.bloomberg.com/live/us|webdeskfulldig
+https://bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV+ (US)|Ροή 2
 https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
@@ -764,6 +776,9 @@ https://livenewsof.com/bloomberg-tv/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV (EUROPE)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-4-KZVY3t6YToC2_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG ORIGINALS
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fc/8e/95/fc8e95de073a87e10ef7b57294208c11.jpg" group-title="NEWS",BLOOMBERG TV (AU)
 https://live-prod-aus-primary.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-2/Source-OZTVqvs-10000-1-sxrye5-BP-HD-6-W7mY5uVEtLF4_live.m3u8
@@ -1239,7 +1254,7 @@ http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6291/manifest.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6292/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAnDLHNqcItwUFzG5JaXiaeymjn7CD9ApmXQW6kFl5&s=10" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC 5
-http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6292/manifest.m3u8
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12150/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Pink_Erotic_6_RS_logo.png?1736424853" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC 6
 http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6293/manifest.m3u8
