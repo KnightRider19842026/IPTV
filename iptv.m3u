@@ -1248,6 +1248,12 @@ http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/2162/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimouLq49kGrSKe6Ydt2du6hXo-7WF5oZA20yTQXGa2A&s=10" group-title="ADULT CHANNELS - SERVER",VIXEN.COM
 http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6265/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168502068404989952/E9yHeBOC_400x400.png" group-title="ADULT CHANNELS - SERVER",XMEN ONLY|Ροή 1
+http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6285/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168502068404989952/E9yHeBOC_400x400.png" group-title="ADULT CHANNELS - SERVER",XMEN ONLY|Ροή 2
+http://233d3515.kazmazpaz.ru/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6285/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyuI77k6I7XmmGR04xPWl5yhPQgTzLYauFPqq-ldl&s=10" group-title="ADULT CHANNELS - SERVER",XYMAX
 http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6286/manifest.m3u8
 
