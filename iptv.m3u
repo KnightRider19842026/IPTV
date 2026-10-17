@@ -910,7 +910,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 https://livenewsof.com/fox-news-live-stream/|webdeskfulldig
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJiNLjTAv7YWqwTzo-rHi0tzv_XeT7WMFXQut0Iiskw&s=10" group-title="NEWS",FOX NEWS|Ροή 2
-http://eb4b8dcf.kablakaka.ru/iptv/8XFKA8883W9M5K/19147/index.m3u8
+http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/19147/index.m3u8
 
 #EXTINF:-1 group-title="NEWS",FOX (LIVE NOW)
 http://www.freeintertv.com/view/id-1799/1-1-2-1?chname=fox+news&findch=1|webdeskfulldig
@@ -1209,8 +1209,11 @@ http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6249/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAR_x2P6aJQSRlCkwDvmtCTF7d262KOPpEYaHmFatGZQ&s" group-title="ADULT CHANNELS - SERVER",TINY4K.COM
 http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6258/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9E2T0JvpxX8_bTCCUt38CK9ZGNKpGwUOyuXp2rhbdOg&s=10" group-title="ADULT CHANNELS - SERVER",TRANS ANGELS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9E2T0JvpxX8_bTCCUt38CK9ZGNKpGwUOyuXp2rhbdOg&s=10" group-title="ADULT CHANNELS - SERVER",TRANS ANGELS|Ροή 1
 http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6259/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9E2T0JvpxX8_bTCCUt38CK9ZGNKpGwUOyuXp2rhbdOg&s=10" group-title="ADULT CHANNELS - SERVER",TRANS ANGELS|Ροή 2
+http://233d3515.kazmazpaz.ru/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6259/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/7/5/754989.png" group-title="ADULT CHANNELS - SERVER",TUSHY.COM
 http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6261/manifest.m3u8
@@ -1241,11 +1244,17 @@ http://88b9da48.kazmazpaz.ru:80/iptv/DVHP2VB5QXL7UC/6288/manifest.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Pink_Erotic.png/revision/latest?cb=20210318150833" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Pink_Erotic.png/revision/latest?cb=20210318150833" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC|Ροή 1
 http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6289/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Pink_Erotic.png/revision/latest?cb=20210318150833" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC|Ροή 2
+http://233d3515.kazmazpaz.ru/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6289/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC 2|Ροή 1
 http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6290/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Pink_Erotic_2.png/revision/latest/smart/width/386/height/259?cb=20210318151018" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC 2|Ροή 2
+http://233d3515.kazmazpaz.ru/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6290/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSPEDnaIvfq7C_ZpfrC-OrGZ79oNSjgkyheA&s" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC 3
 http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6291/manifest.m3u8
@@ -1254,7 +1263,7 @@ http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6291/manifest.m3u8
 http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6292/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAnDLHNqcItwUFzG5JaXiaeymjn7CD9ApmXQW6kFl5&s=10" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC 5
-http://eb4b8dcf.kablakaka.ru/iptv/PXXFGKYYT6PCZA/12150/index.m3u8
+http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/12150/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Pink_Erotic_6_RS_logo.png?1736424853" group-title="ADULT CHANNELS - PINK EROTICA",PINK EROTIC 6
 http://eb4b8dcf.kablakaka.ru/iptv/DVHP2VB5QXL7UC/6293/manifest.m3u8
